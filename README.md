@@ -3,7 +3,7 @@ This is ZHUOFAN's portfolio for Telling Stories With Data at CMU~
 * Web Page URL: https://zhuofany.github.io/Yu-portfolio/
 
 ## About me 🐬
-Hi, this is Zhuofan(Irene) Yu. I am a student in MISM Global of CMU.  
+Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.edu/programs/information-systems-management-master/) Global of CMU.  
 -> Internship experience in industry research, consulting, and strategic planning.  
 -> Conducted consulting projects for Hubble.sh, Ligonier Valley Historical Society and The Aleph Institute.  
 -> Love working with data.  
