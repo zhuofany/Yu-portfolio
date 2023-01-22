@@ -11,12 +11,13 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in MISM Global of CMU.
 
 ## What I hope to learn 🔔
 :pencil2:  Data Visualization Methods  
-* I want to learn how to do data visualization properly to help audience understand data correctly and quickly.  
+* I hope to learn how to do data visualization properly to help audience understand data quickly.  
 
 :pencil2:  Data Visualization Tools  
-* I want to learn to use various data visualization tools including Tableau.  
+* I hope to learn how to use various data visualization tools including Tableau to tell story of data.  
 
-:pencil2:  
+:pencil2:  Learn From Others  
+* I hope to learn about different data visualization ideas from other students through the discussion board. I believe that everyone's understanding of data is unique, which can be extremely beneficial to me.
 
 ## Portfolio :page_with_curl:
 
