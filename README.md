@@ -8,7 +8,8 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in MISM Global of CMU.
 -> Conducted consulting projects for Hubble.sh, Ligonier Valley Historical Society and The Aleph Institute.  
 -> Love working with data.  
   
-![image](https://github.com/zhuofany/Yu-portfolio/blob/main/about%20me.jpg)  
+<img src="https://github.com/zhuofany/Yu-portfolio/blob/main/about%20me.jpg" width="600px">  
+
 
 ## What I hope to learn 🔔
 :dart: Plan  
@@ -27,5 +28,7 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in MISM Global of CMU.
 ## Portfolio :page_with_curl:
 ### Assignment 1
 ### Assignment 2
+### Assignment 3
+### Assignment 4
 ### Final Project
 
