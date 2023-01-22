@@ -31,5 +31,5 @@ Here is works of Telling Stories With Data
 ### Assignment 2
 ### Assignment 3
 ### Assignment 4
-### Final Project 
+### [Final Project](https://github.com/zhuofany/Yu-portfolio/blob/main/Final-Project.md) 
 
