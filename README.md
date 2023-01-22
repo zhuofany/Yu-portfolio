@@ -7,7 +7,7 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in MISM Global of CMU.
 -> Internship experience in industry research, consulting, and strategic planning.  
 -> Conducted consulting projects for Hubble.sh, Ligonier Valley Historical Society and The Aleph Institute.  
 -> Love working with data.  
-
+![image](https://github.com/zhuofany/Yu-portfolio/blob/main/about%20me.jpg)  
 
 ## What I hope to learn 🔔
 :pencil2:  Data Visualization Methods  
