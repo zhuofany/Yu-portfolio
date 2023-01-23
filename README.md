@@ -1,7 +1,8 @@
 # Zhuofan-Yu-TSWD-Portfolio  
 This is ZHUOFAN's portfolio for Telling Stories With Data at CMU~  
 * Web Page URL: https://zhuofany.github.io/Yu-portfolio/  
-* This repository: https://github.com/zhuofany/Yu-portfolio  
+
+* This repository: https://github.com/zhuofany/Yu-portfolio    
 
 ## About me 🐬
 Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.edu/programs/information-systems-management-master/) Global of CMU.  
