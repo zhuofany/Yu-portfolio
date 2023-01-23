@@ -1,4 +1,4 @@
-# Yu-portfolio  
+# Zhuofan-Yu-TSWD-Portfolio  
 This is ZHUOFAN's portfolio for Telling Stories With Data at CMU~  
 * Web Page URL: https://zhuofany.github.io/Yu-portfolio/  
 * This repository: https://github.com/zhuofany/Yu-portfolio  
@@ -30,7 +30,7 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.ed
 Here is works of Telling Stories With Data  
 ## [Assignment 1](assignment-one.md)
 ## [Assignment 2](assignment-two.md)
-## Assignment 3
+## [Assignment 3](assignment-three.md)
 ## Assignment 4
 ## [Final Project](Final-Project.md)
 
