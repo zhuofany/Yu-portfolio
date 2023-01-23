@@ -31,6 +31,6 @@ Here is works of Telling Stories With Data
 ## [Assignment 1](assignment-one.md)
 ## [Assignment 2](assignment-two.md)
 ## [Assignment 3](assignment-three.md)
-## Assignment 4
+## [Assignment 4](assignment-four.md)
 ## [Final Project](Final-Project.md)
 
