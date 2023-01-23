@@ -28,7 +28,7 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.ed
 * I hope to learn about different data visualization ideas from other students through the discussion board. I believe that everyone's understanding of data is unique, which can be extremely beneficial to me.
 
 ## Portfolio 📃
-Here is works of Telling Stories With Data  
+Here are works of Telling Stories With Data 🌻  
 ## [Assignment 1](assignment-one.md)
 ## [Assignment 2](assignment-two.md)
 ## [Assignment 3](assignment-three.md)
