@@ -28,9 +28,9 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.ed
 
 ## Portfolio 📃
 Here is works of Telling Stories With Data  
-## Assignment 1
+## [Assignment 1](https://github.com/zhuofany/Yu-portfolio/assignment-one.html)
 ## Assignment 2
 ## Assignment 3
 ## Assignment 4
-## [Final Project](https://github.com/zhuofany/Yu-portfolio/blob/main/Final-Project.md) 
+## [Final Project](https://github.com/zhuofany/Yu-portfolio/Final-Project.html) 
 
