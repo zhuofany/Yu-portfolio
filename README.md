@@ -43,6 +43,6 @@ Here are works of Telling Stories With Data 🌻
 #### 📌 Assignment Four
 [Assignment 4](assignment-four.md)  
 
-#### :crown: Final Project 
+#### 👑 Final Project 
 [Final Project](Final-Project.md)  
 
