@@ -32,7 +32,7 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.ed
 ## Portfolio 📃
 Here are works of Telling Stories With Data 🌻  
 #### 📌 Assignment One  
-[Visualizing government debt](assignment-one.md)
+[Visualizing government debt](government-debt.md)
 
 #### 📌 Assignment Two
 [Assignment 2](assignment-two.md)  
