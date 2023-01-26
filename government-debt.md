@@ -24,6 +24,6 @@ This is the other visualization created by Flourish. I divide the world's nation
 <br />
 <br />
 
-👁️‍🗨️ **_Comparison of the three visulizations_**  
+👁️‍🗨️ <font color=#D7BEEB>**_Comparison of the three visulizations_**</font>
 
 
