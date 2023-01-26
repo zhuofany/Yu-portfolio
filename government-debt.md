@@ -15,14 +15,16 @@ This is the visualization created by Flourish. The sparklines display the trend 
 <br />
 
 📍 **_Third Visualization_**  
-This is the other visualization created by Flourish. I divide the world's nations into continents and compare the changes in each continent's debt-to-GDP ratio over a five-year period using a grid of column charts.
+This is the other visualization created by Flourish. I divide the countries into continents and compare the changes in each continent's debt-to-GDP ratio over a five-year period using a grid of column charts.
 <br />
-<div class="flourish-embed flourish-chart" data-src="visualisation/12551837"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
+<div class="flourish-embed flourish-chart" data-src="visualisation/12550634"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br />
 <br />
 
 ⭐ **_Comparison of the three visulizations_**  
 The first visualization is a single bar chart from OECD website. The chart shows the debt-to-GDP ratio of 39 countries in the world in 2020. Because each bar represents a country, we can use the chart to see which countries have the highest and lowest debt-to-GDP ratios in 2020. To compare which countries have ratios that exceed the OECD average, the bars for the OECD average are colored black. However, the chart contains too much data, and the country names on the x-axis are slanted, making the chart difficult to read.  
 <br />
-The second visualization is grid of line charts.
+The second visualization is grid of line charts. With a line chart, this pair of charts depicts the trend of each country's debt-to-GDP ratio since 1995. The most recent year of data is represented by the dots on the line charts. However, due to the large number of countries, audience is unable to visually compare the debt-to-GDP ratio data of different countries. Audience have to constantly move his/her mouse and eyes while looking at this chart, making it challenging to draw a precise conclusion.
+<br />
+The third visualization is grid of bar charts. 
 
