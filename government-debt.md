@@ -17,7 +17,8 @@ This is the visualization created by Flourish. The sparklines display the trend 
 📍 **_Third Visualization_**  
 This is the other visualization created by Flourish, showing the average debt-to-GDP ratio of 5 continents and OECD over the last 5 years.
 <br />
-<div class="flourish-embed flourish-chart" width="1200" height="1000" data-src="visualisation/12551837"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12551837"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br />
 <br />
 
 ⭐ **_Comparison of the three visulizations_**  
