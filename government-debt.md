@@ -8,7 +8,7 @@ This is the original visualization from OECD. Since the number of countries in 2
 <br />
   
 📍 **_Second Visualization_**  
-This is the visualization created by Flourish. The sparklines display the trend of debt-to-GDP ratios for 40 nations and OECD since 1995.
+This is the visualization created by Flourish. The sparklines display the trend of debt-to-GDP ratios for 40 countries and OECD since 1995.
 <br />
 <div class="flourish-embed flourish-chart" data-src="visualisation/12550634"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br />
