@@ -16,7 +16,4 @@ This is the visualization created by Flourish. The sparklines display the trend 
 <br />
 
 📍 **_Third Visualization_**  
-
-
-
-
+This is  
