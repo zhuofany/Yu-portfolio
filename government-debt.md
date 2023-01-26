@@ -1,7 +1,7 @@
 ## Government Debts Visualization 
 
 📍 **_First Visualization_**   
-This is the original visualization from OECD.  
+This is the original visualization from OECD. The chart below shows the debt-to-GDP ratio of 39 countries in the world in 2020. Since the number of countries in 2020 is more substantial than in 2021, the data of 2020 is selected for visualization.
 
 <iframe src="https://data.oecd.org/chart/6XKb" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XKb" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe> 
 <br />
