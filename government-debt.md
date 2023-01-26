@@ -8,14 +8,14 @@ This is the original visualization from OECD. Since the number of countries in 2
 <br />
   
 📍 **_Second Visualization_**  
-This is the visualization created by Flourish. The sparklines display the trend of debt-to-GDP ratios for 40 countries and OECD since 1995.
+This is the visualization created by Flourish. The sparklines display the trend of debt-to-GDP ratios for 40 countries and OECD since 1995. The majority of countries display an upward trend, with Japan and Greece experiencing the largest growth.
 <br />
 <div class="flourish-embed flourish-chart" data-src="visualisation/12550634"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br />
 <br />
 
 📍 **_Third Visualization_**  
-This is the other visualization created by Flourish, showing the average debt-to-GDP ratio of 5 continents and OECD over the last 5 years.
+This is the other visualization created by Flourish, showing the average debt-to-GDP ratio of 5 continents and OECD over the last 5 years. In the past five years, the average debt-to-GDP ratio of Asian countries is the highest among all continents and OECD.
 <br />
 <div class="flourish-embed flourish-chart" data-src="visualisation/12551837"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br />
