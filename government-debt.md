@@ -17,8 +17,7 @@ This is the visualization created by Flourish. The sparklines display the trend 
 📍 **_Third Visualization_**  
 This is the other visualization created by Flourish. I divide the countries into continents and compare the changes in each continent's debt-to-GDP ratio over a five-year period using a grid of column charts.
 <br />
-<div class="flourish-embed flourish-chart" data-src="visualisation/12550634"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<br />
+<div class="flourish-embed flourish-chart" data-src="visualisation/12551837"><script src="https://public.flourish.studio/resources/embed.js"></script></div><br />
 <br />
 
 ⭐ **_Comparison of the three visulizations_**  
