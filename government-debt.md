@@ -9,7 +9,7 @@ This is the original visualization from OECD. The chart below shows the debt-to-
 <br />
   
 📍 **_Second Visualization_**  
-This is the visualization created by Flourish. The sparklines display the trend of debt-to-GDP ratios for 40 nations since 1995. The majority of nations displayed an upward trend, with Japan and Greece experiencing the largest growth.  
+This is the visualization created by Flourish. The sparklines display the trend of debt-to-GDP ratios for 40 nations and OECD since 1995. The majority of nations displayed an upward trend, with Japan and Greece experiencing the largest growth.  
 <div class="flourish-embed flourish-chart" data-src="visualisation/12550634"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 <br />
 <br />
