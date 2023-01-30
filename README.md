@@ -31,7 +31,7 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.ed
 
 ## Portfolio 📃
 Here are works of Telling Stories With Data 🌻  
-#### 📌 In class Visualizations Exercises  
+#### 📌 In class Visualization Exercises  
 [King County Demo](king-county-demo.md)  
 
 #### 📌 Assignment Two  
