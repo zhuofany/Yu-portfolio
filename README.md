@@ -31,17 +31,14 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.ed
 
 ## Portfolio 📃
 Here are works of Telling Stories With Data 🌻  
-#### 📌 Assignment One  
-[Visualizing government debt](government-debt.md)
+#### 📌 In class Visualizations Exercises  
+[King County Demo](king-county-demo.md)  
 
-#### 📌 Assignment Two
-[Assignment 2](assignment-two.md)  
+#### 📌 Assignment Two  
+[Visualizing government debt](government-debt.md) 
 
-#### 📌 Assignment Three
-[Assignment 3](assignment-three.md)  
-
-#### 📌 Assignment Four
-[Assignment 4](assignment-four.md)  
+#### 📌 Assignment Three & Four
+[Assignment 3](assignment-three.md)   
 
 #### 👑 Final Project  
 [Final Project](Final-Project.md)  
