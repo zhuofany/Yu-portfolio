@@ -38,7 +38,7 @@ Here are works of Telling Stories With Data 🌻
 [Visualizing government debt](government-debt.md) 
 
 #### 📌 Assignment Three & Four
-[Assignment 3](assignment-three.md)   
+[Assignment 3&4](assignment-three.md)   
 
 #### 👑 Final Project  
 [Final Project](Final-Project.md)  
