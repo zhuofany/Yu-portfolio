@@ -15,7 +15,7 @@ This is the visualization created by Flourish. The sparklines display the trend 
 <br />
 
 📍 **_Third Visualization_**  
-This is the other visualization created by Flourish, showing the average debt-to-GDP ratio of 5 continents and OECD over the last 5 years. In the past five years, the average debt-to-GDP ratio of Asian countries is the highest among all continents and OECD.
+This is the other visualization created by Flourish, showing the average debt-to-GDP ratio of 5 continents and OECD over the last 5 years. In 2021, Asia's average debt-to-GDP ratio is the highest over nearly five years, reaching 120.87%.
 <br />
 <div class="flourish-embed flourish-chart" data-src="visualisation/12551837"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br />
@@ -26,7 +26,7 @@ The first visualization is a single bar chart from the OECD website. The chart s
 <br />
 The second visualization is a grid of line charts. With a line chart, this pair of charts depicts the trend of each country's debt-to-GDP ratio since 1995. The most recent year of data is represented by the dots on the line charts. However, due to the large number of countries, the audience is unable to visually compare the debt-to-GDP ratio data of different countries. Audiences have to constantly move his/her mouse and eyes while looking at this chart, making it challenging to draw a precise conclusion. This chart, in contrast, is better suited to visually illustrating the shifting trend of the ratio of various countries.  
 <br />
-The third visualization is a grid of bar charts. I divided the countries into continents and computed the average debt-to-GDP ratio for the OECD over the previous five years for each continent. The value of a country over a 5-year period is shown by each bar in the grid chart. Asia's average debt-to-GDP ratio over the past five years has been found to be the highest by comparing the data sizes of several histograms. However, this method cannot obtain specific national data or the comparative relationship between countries, in contrast to the first two visualization techniques.  
+The third visualization is a grid of bar charts. I divide the countries into continents and compute the average debt-to-GDP ratio for the OECD over the previous five years for each continent. The value of a country over a 5-year period is shown by each bar in the grid chart. Over the past five years, we can see that the debt-to-GDP ratio of each continent is relatively average without major fluctuations. Asia's average debt-to-GDP ratio over the past five years has been found to be the highest by comparing the data sizes of several histograms. At the same time, I tried to use the line chart, but since the data of each continent is not much different, the effect of a line chart is not good. However, this method cannot obtain specific national data or the comparative relationship between countries, in contrast to the first two visualization techniques.  
 <br />
 <br />
 
