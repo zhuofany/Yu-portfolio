@@ -33,6 +33,7 @@ Hi, this is Zhuofan(Irene) Yu. I am a student in [MISM](https://www.heinz.cmu.ed
 Here are works of Telling Stories With Data 🌻  
 #### 📌 In class Visualization Exercises  
 [King County Demo](king-county-demo.md)  
+[New Media Rank](new-media-outlet.md)
 
 #### 📌 Assignment Two  
 [Visualizing government debt](government-debt.md) 
