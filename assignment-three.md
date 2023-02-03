@@ -1,5 +1,13 @@
 ## Health and environmental impacts of diets worldwide
 
+**_The original version of data visualization:_**  
+
+<img src="https://user-images.githubusercontent.com/113551358/216529545-1975ce81-a9d2-41ef-9afb-5b1cc75498b1.png" width="600"/>  
+<br />
+[Data Source](https://globalnutritionreport.org/reports/2021-global-nutrition-report/health-and-environmental-impacts-of-diets-worldwide/)  
+
+
+### ✏️Critique
 
 
 ### ✏️Sketch
