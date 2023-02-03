@@ -30,5 +30,5 @@ The third visualization is a grid of bar charts. I divide the countries into con
 <br />
 <br />
 
-[:arrow_right: Back to Portfolio ](README.md)
+⬅️[Back to Portfolio ](README.md)
 
