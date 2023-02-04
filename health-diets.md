@@ -42,7 +42,7 @@ For reaching the audience, this visualization is 40% effective.
 3. In the chart, I want to use as few colors as possible to improve perceptibility.
 4. I want to convert the original data into the annual growth rate of dietary intake. This makes the data more meaningful and understandable while also conforming to the information mentioned above.
 
-💡 **_Thoughts of Evaluation method_**
+💡 **_Thoughts of Critique Method_**
 This evaluation method, in my opinion, is quite effective because it includes all of the information required to analyze a data visualization.
 * "Color effectiveness" can be used as an evaluation criterion. While this visualization has some aesthetics, the sheer number of colors makes viewing difficult anyway. This needs to be combined with the kind of chart to change the color. Although many colors represent many kinds, some colors are difficult to observe in the chart. Therefore the visualization is less color efficient.
 * “Type of visualization” is another metric. Although the stacked column chart used in this visualization is easy to understand, when there are more than 10 pieces of information that need to be listed, the stacked column chart will not work. Because it is impossible to clearly see the specific data of each category.
