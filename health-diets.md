@@ -31,7 +31,7 @@ This graph is intended to show that there has been little progress in the intake
 
 🙇‍♀️ **_Primary Audience_**  
   
--> The general public who hopes to learn about healthy diets from around the world and diet experts of health organizations are the primary audiences. 
+-> The general public who hopes to learn about healthy diets from around the world and diet experts of health organizations are the primary audiences.  
 -> For reaching the audience, this visualization is 40% effective.  
 1. It has an eye-catching and meaningful title, which is the most attractive information for these primary audiences. This chart has a certain aesthetic quality, the colors are more harmonious, and the style may appeal to the audience. Furthermore, the type of chart used in this visualization is more familiar to the audience, and they will be willing to interpret it.  
 2. However, too many colors will distract the audience and keep them from focusing on the information to be expressed in the chart. At the same time, viewers want to see which categories or aspects of diet improvement demonstrate the effect. However, this graph only compares food consumption in the world and continents between 2010 and 2018. I'm not sure how this image can represent "The last decade has seen little progress in improving diets" to a general public who is encountering it for the first time. For diet experts looking for specific data, the information presented by this chart is also somewhat hazy. Therefore, when the audiences continue to watch this data visualization, they will slowly lose interest in it.
