@@ -55,29 +55,29 @@ This evaluation method, in my opinion, is quite effective because it includes al
 
 **_👦Respondent One: Software Developer, Male, mid 40's_**  
 
-**Q1: Can you tell me what you think this is?**  
+* Q1: Can you tell me what you think this is?  
 I think this is about 
 
-**Q2: Can you describe to me what this is telling you?**  
+* Q2: Can you describe to me what this is telling you?  
 
-**Q3: Is there anything you find surprising or confusing?**  
+* Q3: Is there anything you find surprising or confusing?  
 
-**Q4: Who do you think is the intended audience for this?**  
-
-**Q5: Is there anything you would change or do differently?**  
+* Q4: Who do you think is the intended audience for this?  
+ 
+* Q5: Is there anything you would change or do differently?  
 
 
 **_👧Respondent Two: Student, Female, mid 20's_**  
 
-**Q1: Can you tell me what you think this is?**  
+* Q1: Can you tell me what you think this is?  
 
-**Q2: Can you describe to me what this is telling you?**  
+* Q2: Can you describe to me what this is telling you?  
 
-**Q3: Is there anything you find surprising or confusing?**  
+* Q3: Is there anything you find surprising or confusing?  
 
-**Q4: Who do you think is the intended audience for this?**  
-
-**Q5: Is there anything you would change or do differently?** 
+* Q4: Who do you think is the intended audience for this?  
+ 
+* Q5: Is there anything you would change or do differently?  
 
 
 ### 📓Conclusions from Feedbacks
