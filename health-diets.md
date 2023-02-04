@@ -19,7 +19,6 @@ This graph is intended to show that there has been little progress in the intake
 <img src="https://user-images.githubusercontent.com/113551358/216743556-9452b66b-8d96-47a0-b0af-517391542573.jpg" width="600"/>
 
 👍 **_What does work well?_**  
-
 * Usefulness: This chart contains a lot of data to express health and diet information that is meaningful and will serve as a warning to the audience. As a result, this visualization is of high usefulness.  
 * Truthfulness: This visualization uses bars of varying heights to represent the intake amount of various food types, and the data expression is relatively accurate and authentic.  
 * Intuitiveness: Stacked column chart which is used in this visualization is also well-known to the audience, with a high level of intuitiveness.  
@@ -31,9 +30,10 @@ This graph is intended to show that there has been little progress in the intake
 * Engagement: This data visualization does a poor job of improving the interaction between users and data. The audience might be overly preoccupied with the visualization's color and drawn in by its adorable appearance, but they might not be interested in learning more. Engagement will decline as a result of the confusing information above.  
 
 🙇‍♀️ **_Primary Audience_**  
-  -> The general public who hopes to learn about healthy diets from around the world and diet experts are the primary audiences.
-For reaching the audience, this visualization is 40% effective. 
-1. It has an eye-catching and meaningful title, which is the most attractive information for these primary audiences. This chart has a certain aesthetic quality, the colors are more harmonious, and the style may appeal to the audience. Furthermore, the type of chart used in this visualization is more familiar to the audience, and they will be willing to interpret it.
+  
+-> The general public who hopes to learn about healthy diets from around the world and diet experts are the primary audiences.  
+-> For reaching the audience, this visualization is 40% effective.  
+1. It has an eye-catching and meaningful title, which is the most attractive information for these primary audiences. This chart has a certain aesthetic quality, the colors are more harmonious, and the style may appeal to the audience. Furthermore, the type of chart used in this visualization is more familiar to the audience, and they will be willing to interpret it.  
 2. However, too many colors will distract the audience and keep them from focusing on the information to be expressed in the chart. At the same time, viewers want to see which categories or aspects of diet improvement demonstrate the effect. However, this graph only compares food consumption in the world and continents between 2010 and 2018. I'm not sure how this image can represent "The last decade has seen little progress in improving diets" to a general public who is encountering it for the first time. For diet experts looking for specific data, the information presented by this chart is also somewhat hazy. Therefore, when the audiences continue to watch this data visualization, they will slowly lose interest in it.
 
 💡 **_How to change_**  
@@ -43,6 +43,7 @@ For reaching the audience, this visualization is 40% effective.
 4. I want to convert the original data into the annual growth rate of dietary intake. This makes the data more meaningful and understandable while also conforming to the information mentioned above.
 
 💡 **_Thoughts of Critique Method_**  
+
 This evaluation method, in my opinion, is quite effective because it includes all of the information required to analyze a data visualization.
 * "Color effectiveness" can be used as an evaluation criterion. While this visualization has some aesthetics, the sheer number of colors makes viewing difficult anyway. This needs to be combined with the kind of chart to change the color. Although many colors represent many kinds, some colors are difficult to observe in the chart. Therefore the visualization is less color efficient.
 * “Type of visualization” is another metric. Although the stacked column chart used in this visualization is easy to understand, when there are more than 10 pieces of information that need to be listed, the stacked column chart will not work. Because it is impossible to clearly see the specific data of each category.
