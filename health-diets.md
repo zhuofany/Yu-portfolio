@@ -57,7 +57,7 @@ According to the data visualization effectiveness profile, I draw a sketch. I ch
 **_👦Respondent One: Software Developer, Male, mid 40's_**  
 
 * Q1: Can you tell me what you think this is?  
-I think it's an analysis of dietary health data on different continents of the world.  
+I think it's an analysis of dietary health data on different continents of the world using the bar chart.  
 
 * Q2: Can you describe to me what this is telling you?  
 This graph tells me that the growth rate of healthy food is negative in most countries. However, the growth rate of foods that have a greater impact on the environment and health, such as red meat, processed meat or dairy, is positive. And the intake of healthy food or unhealthy food is related to the degree of development of the country.  
