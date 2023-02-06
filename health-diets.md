@@ -37,7 +37,7 @@ This graph is intended to show that there has been little progress in the intake
 2. However, too many colors will distract the audience and keep them from focusing on the information to be expressed in the chart. At the same time, viewers want to see which categories or aspects of diet improvement demonstrate the effect. However, this graph only compares food consumption in the world and continents between 2010 and 2018. I'm not sure how this image can represent "The last decade has seen little progress in improving diets" to a general public who is encountering it for the first time. For diet experts looking for specific data, the information presented by this chart is also somewhat hazy. Therefore, when the audiences continue to watch this data visualization, they will slowly lose interest in it.
 
 💡 **_How to change_**  
-1. In response to the above problem, I want to completely change the type of chart. Because I can't accurately see the change in the growth rate of the last decade, and the comparison between different continents. Therefore, I want to construct a bar chart to represent growth rate change of different continents in the last decades. 
+1. In response to the above problem, I want to completely change the type of chart. Because I can't accurately see the change in the growth rate of the last decade, and the comparison between different continents, therefore, I want to construct a bar chart to represent growth rate change of different continents in the last decades. This means that I will change the intake of the original y-axis to the growth rate of intake in order to improve completeness by making the contrast more visible.
 2. I also want to separate the types of foods that promote health from those that have a greater impact on the environment and health, and merge some food types according to the content of the original text. In this way, it is easier for the audience to understand the meaning of data and thus increase its perceptibility and engagement.
 3. In the chart, I want to use as few colors as possible to improve perceptibility.
 4. I want to convert the original data into the annual growth rate of dietary intake. This makes the data more meaningful and understandable while also conforming to the information mentioned above.
@@ -104,16 +104,21 @@ If it were up to me, I would either compare data from various continents in a si
 <br />
 
 ### 📓 Summary for redesign  
-_1. What the redesigned data visualization shows?_  
+**1. What the redesigned data visualization shows?**    
 The redesigned data visualization is intended for diet experts and staff at national professional health institutions, as well as members of the general public who are interested in dietary health, such as myself.  
 This data visualization depicts how healthy diwt has changed in different parts of the world over the last decade. Foods with green color are relatively healthy, while those of red color are harmful to the environment and health. The countries in the first row, according to the original text, may have performed better over the last decade. However, both positive and negative dietary change are more common in high-income or upper-middle-income countries. Over the last decade, the world has made little progress in improving diets.  
 
-_2. Reasons for selecting the redesigned data visualization._  
+**2. Reasons for selecting the redesigned data visualization.**  
 To begin with, the bar chart clearly depicts the rate of growth in consumption of various food types over the last decade. The grid format allows for a clear comparison of food consumption around the world. I added a filter to choose between health-improving and health-affecting foods, and the colors can represent two different food categories. At the same time, each bar chart in this data visualization can be sorted according to the rate of increase in food consumption, making it easier for audiences to observe and study data.  
 
-_3. The difference between the sketch and the redesign._  
-    *
-
+**3. The difference between the sketch and the redesign.**  
+   * The layout of the chart is different. Sketch employs filters to place various regions on different pages. However, the new visualization arranges them in a grid on a single plane.
+   * The six areas are divided into two lines in the redesigned visualization. The first line represents the areas that have done relatively well in terms of diet improvement over the last ten years.
+   * The redesigned data visualization employs two colors to represent two major food categories, which can more accurately reflect the original context meaning.  
+   * The size of the growth rate can be sorted in the new visualization.
+   * The redesigned visualization can rank the rates of growth of various food groups in each region.
+   * The redesigned visualization includes additional captions.
+   * The redesigned visualization includes filters for selecting health-improving food/health-affecting food.
 <br />
 <br />
 ⬅️[Back to Portfolio ](README.md)
