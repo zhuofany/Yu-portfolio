@@ -7,7 +7,7 @@
 [Data Source](https://globalnutritionreport.org/reports/2021-global-nutrition-report/health-and-environmental-impacts-of-diets-worldwide/)  
 <br />
 
-### 💡 Reason
+### 💡 Reasons
 * When I was looking for a data visualization for analysis, I first looked for food-related reports. That is the report that came into view, so it is a topic that I am interested in, which is healthy food and the environment. Stacked column charts are used in many of the data visualizations in this report. However, similar stacked column charts give me visual fatigue when I read the report.  
 * Another factor that drew my attention to this data visualization was its color, which is very cute and harmonious. However, there are more than ten colors and patterns on a chart at the same time, and the colors cannot correspond to the content one by one.  
 
@@ -51,6 +51,8 @@ This evaluation method, in my opinion, is quite effective because it includes al
 
 ### ✏️ Sketch and Feedbacks
 
+According to the data visualization effectiveness profile, I draw a sketch:  
+
 <div class="infogram-embed" data-id="6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" data-type="interactive" data-title="Health Diet"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" style="color:#989898!important;text-decoration:none!important;" target="_blank">Health Diet</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 **_👦Respondent One: Software Developer, Male, mid 40's_**  
@@ -65,7 +67,7 @@ This graph tells me that the growth rate of healthy food is negative in most cou
 There are so many food types that it can be difficult to analyze. And although the explanatory text below the title mentions what are the foods that have a greater impact on the environment and health, there seems to be no distinction in the chart.  
 
 * Q4: Who do you think is the intended audience for this?  
- I guess the intended audience will be the heads of health organizations in each country or experts in related fields.  
+ I guess the intended audience will be experts in the field of diet.  
  
 * Q5: Is there anything you would change or do differently?  
 I would like to replace the above filter, because it is difficult to compare the data of each country in the current form. I would also like to see a chart clearly distinguishing between good and bad foods.  
@@ -82,7 +84,7 @@ I can see that the negative growth of food intake has been relatively significan
 The dynamic display that followed this screening and classification pleasantly surprised me. However, I'm a little perplexed because it doesn't appear that the foods mentioned in the text that have a significant impact on the environment and health are represented in this chart.  
 
 * Q4: Who do you think is the intended audience for this?  
-People who work for a health organization, for example, or those who want to learn how to improve their diet, I believe, are the intended audience.  
+People who work for a health organization, for example, or those who want to learn how to improve their diet, I believe, are the intended audiences.  
  
 * Q5: Is there anything you would change or do differently?  
 If it were up to me, I would either compare data from various continents in a single plane or group continents that perform reasonably well together. We can only draw the second conclusion from the text in this way.  
@@ -101,9 +103,16 @@ If it were up to me, I would either compare data from various continents in a si
 
 <br />
 
-### 📓 Summary  
+### 📓 Summary for redesign  
+_1. What the redesigned data visualization shows?_  
+The redesigned data visualization is intended for diet experts and staff at national professional health institutions, as well as members of the general public who are interested in dietary health, such as myself.  
+This data visualization depicts how healthy diwt has changed in different parts of the world over the last decade. Foods with green color are relatively healthy, while those of red color are harmful to the environment and health. The countries in the first row, according to the original text, may have performed better over the last decade. However, both positive and negative dietary change are more common in high-income or upper-middle-income countries. Over the last decade, the world has made little progress in improving diets.  
 
+_2. Reasons for selecting the redesigned data visualization._  
+To begin with, the bar chart clearly depicts the rate of growth in consumption of various food types over the last decade. The grid format allows for a clear comparison of food consumption around the world. I added a filter to choose between health-improving and health-affecting foods, and the colors can represent two different food categories. At the same time, each bar chart in this data visualization can be sorted according to the rate of increase in food consumption, making it easier for audiences to observe and study data.  
 
+_3. The difference between the sketch and the redesign._  
+    *
 
 <br />
 <br />
