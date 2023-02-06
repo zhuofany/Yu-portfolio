@@ -50,7 +50,7 @@ This evaluation method, in my opinion, is quite effective because it includes al
 
 ### ✏️ Sketch and Feedbacks
 
-According to the data visualization effectiveness profile, I draw a sketch. I changed the chart format to bar chart. I changed the original data to percentage growth and combined some data so that the overall data doesn't look too messy. In addition, I changed the color to a uniform color to make the audience look more comfortable.
+According to the data visualization effectiveness profile, I draw a sketch. I changed the chart format to bar chart. I changed the original data to percentage growth and combined some data so that the overall data doesn't look too messy. In addition, I changed the color to a uniform color to make the audience look more comfortable.  
 
 <div class="infogram-embed" data-id="6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" data-type="interactive" data-title="Health Diet"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" style="color:#989898!important;text-decoration:none!important;" target="_blank">Health Diet</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
@@ -94,7 +94,8 @@ If it were up to me, I would either compare data from various continents in a si
 3. Color or other methods that can better explain the problem should be used to distinguish between foods that promote health and foods that are more harmful to the environment and health.
 4. I believe some textual expressions can be added to clarify the point of the visualization.
 
-### 🎆 Final Visualization  
+### 🎆 Redesign Visualization  
+Tips: Audiences can use the ranking function to rank the growth rate of different food intake for each country.  
 
 <div class='tableauPlaceholder' id='viz1675571602280' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdietsdashboard&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
 </div>                
@@ -102,6 +103,22 @@ If it were up to me, I would either compare data from various continents in a si
 </script>
 
 <br />
+
+### 📓 Feedbacks from classmates
+1. Love
+   * Love the order filters and the colors used.
+   * Love the pop-up labels on the chart.
+   * Love the grid of charts in a same page instead of using the filter in the sketch.
+2. Something could change
+   * Remove the marks of percentage numbers for each bar. With pop-ups and X-axis data already in the visualization, too many data flags can get confusing.
+   * Give egss and fish same color with meat and diary. (-> This one cannot realize because the context says dairy and meat are foods associated with high environment and health impacts.)
+
+### 🎆 Final Visualization
+
+<div class='tableauPlaceholder' id='viz1675712787101' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard_2&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdietsdashboard_2&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard_2&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
+</div>                
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1675712787101');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ### 📓 Summary for redesign  
 **1. What the redesigned data visualization shows?**    
