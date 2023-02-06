@@ -103,6 +103,7 @@ If it were up to me, I would either compare data from various continents in a si
 2. The bar charts from various continents should be compared on a single board, and the filter should be removed.
 3. Color or other methods that can better explain the problem should be used to distinguish between foods that promote health and foods that are more harmful to the environment and health.
 4. I believe some textual expressions can be added to clarify the point of the visualization.
+5. I think it will be more clear to remove the marks of percentage data of each bar.
 
 ### 🎆 Final Visualization
 💡 Tips: Audiences can use the ranking function to rank the growth rate of different food intake for each country.  
