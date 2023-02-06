@@ -12,7 +12,7 @@
 * Another factor that drew my attention to this data visualization was its color, which is very cute and harmonious. However, there are more than ten colors and patterns on a chart at the same time, and the colors cannot correspond to the content one by one.  
 
 
-### ✏️Critique
+### ✏️ Critique
 I first using data visualization effectiveness profile to evaluate the original chart.  
 This graph is intended to show that there has been little progress in the intake of health-promoting foods over the past decade. At the same time, the growth of foods that promote health and foods that have a greater impact on the environment and health are closely related to the development of the country.  
 
@@ -49,7 +49,7 @@ This evaluation method, in my opinion, is quite effective because it includes al
 * “Type of visualization” is another metric. Although the stacked column chart used in this visualization is easy to understand, when there are more than 10 pieces of information that need to be listed, the stacked column chart will not work. Because it is impossible to clearly see the specific data of each category.
 
 
-### ✏️Sketch and Feedbacks
+### ✏️ Sketch and Feedbacks
 
 <div class="infogram-embed" data-id="6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" data-type="interactive" data-title="Health Diet"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" style="color:#989898!important;text-decoration:none!important;" target="_blank">Health Diet</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
@@ -87,9 +87,12 @@ People who work for a health organization, for example, or those who want to lea
 * Q5: Is there anything you would change or do differently?  
 If it were up to me, I would either compare data from various continents in a single plane or group continents that perform reasonably well together. We can only draw the second conclusion from the text in this way.  
 
-### 📓Conclusions from Feedbacks
+### 📓 Conclusions from Feedbacks  
+1. The bar charts from various continents should be compared on a single board, and the filter should be removed.
+2. Color or other methods that can better explain the problem should be used to distinguish between foods that promote health and foods that are more harmful to the environment and health.
+3. I believe some textual expressions can be added to clarify the point of the visualization.
 
-### 🎆Final Visualization
+### 🎆 Final Visualization  
 
 <div class='tableauPlaceholder' id='viz1675571602280' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdietsdashboard&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
 </div>                
@@ -97,6 +100,11 @@ If it were up to me, I would either compare data from various continents in a si
 </script>
 
 <br />
+
+### 📓 Summary  
+
+
+
 <br />
 <br />
 ⬅️[Back to Portfolio ](README.md)
