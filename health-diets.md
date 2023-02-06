@@ -111,7 +111,7 @@ This data visualization depicts how healthy diwt has changed in different parts 
 **2. Reasons for selecting the redesigned data visualization.**  
 To begin with, the bar chart clearly depicts the rate of growth in consumption of various food types over the last decade. The grid format allows for a clear comparison of food consumption around the world. I added a filter to choose between health-improving and health-affecting foods, and the colors can represent two different food categories. At the same time, each bar chart in this data visualization can be sorted according to the rate of increase in food consumption, making it easier for audiences to observe and study data.  
 
-**3. The difference between the sketch and the redesign.**  
+**3. The differences between the sketch and the redesign.**  
    * The layout of the chart is different. Sketch employs filters to place various regions on different pages. However, the new visualization arranges them in a grid on a single plane.
    * The six areas are divided into two lines in the redesigned visualization. The first line represents the areas that have done relatively well in terms of diet improvement over the last ten years.
    * The redesigned data visualization employs two colors to represent two major food categories, which can more accurately reflect the original context meaning.  
