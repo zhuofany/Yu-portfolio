@@ -25,9 +25,15 @@ This graph is intended to show that there has been little progress in the intake
 * Aesthetics: The color matching of the chart looks harmonious and does not have many competing colors, which has certain level of aesthetic quality.  
 
 👎 **_What does not work well?_**  
-* Completenesss: The chart's title cannot be inferred directly from the column chart's data. Although I can see the data from 2010 and 2018, I am unsure of the benchmark or objective by which to measure the progress of the diet, so I consider its completeness to be only fair.
+* Completenesss: The chart's title cannot be inferred directly from the column chart's data. Although I can see the data from 2010 and 2018, I am unsure of the benchmark or objective by which to measure the progress of the diet, so I consider its completeness to be only fair. 
 * Perceptibility: Furthermore, I will feel exhausted and confused when I look at this chart because there are so many different food types with various colors, patterns and shadings. I have to compare which color goes with which food type all the time. Particularly, the top portion of the bar has a very small area, making it difficult to see the precise value. Having too many colors will also detract from the presentation. As a result, perceptibility is significantly decreased.
 * Engagement: This data visualization does a poor job of improving the interaction between users and data. The audience might be overly preoccupied with the visualization's color and drawn in by its adorable appearance, but they might not be interested in learning more. Engagement will decline as a result of the confusing information above.  
+
+💡 **_How to change_**  
+1. I want to convert the original data into the annual growth rate of dietary intake. This makes the data more meaningful and understandable while also conforming to the information mentioned above. And it will improve the completeness by making the contrast more visible.
+2. In response to the above problem, I want to completely change the type of chart. Because I can't accurately see the change in the growth rate of the last decade, and the comparison between different continents, therefore, I want to construct a bar chart to represent growth rate change of different continents in the last decades.
+3. I also want to separate the types of foods that promote health from those that have a greater impact on the environment and health, and merge some food types according to the content of the original text. In this way, it is easier for the audience to understand the meaning of data and thus increase its perceptibility and engagement.
+4. In the chart, I want to use as few colors as possible to improve perceptibility.
 
 🙇‍♀️ **_Primary Audience_**  
   
@@ -36,22 +42,15 @@ This graph is intended to show that there has been little progress in the intake
 1. It has an eye-catching and meaningful title, which is the most attractive information for these primary audiences. This chart has a certain aesthetic quality, the colors are more harmonious, and the style may appeal to the audience. Furthermore, the type of chart used in this visualization is more familiar to the audience, and they will be willing to interpret it.  
 2. However, too many colors will distract the audience and keep them from focusing on the information to be expressed in the chart. At the same time, viewers want to see which categories or aspects of diet improvement demonstrate the effect. However, this graph only compares food consumption in the world and continents between 2010 and 2018. I'm not sure how this image can represent "The last decade has seen little progress in improving diets" to a general public who is encountering it for the first time. For diet experts looking for specific data, the information presented by this chart is also somewhat hazy. Therefore, when the audiences continue to watch this data visualization, they will slowly lose interest in it.
 
-💡 **_How to change_**  
-1. In response to the above problem, I want to completely change the type of chart. Because I can't accurately see the change in the growth rate of the last decade, and the comparison between different continents, therefore, I want to construct a bar chart to represent growth rate change of different continents in the last decades. This means that I will change the intake of the original y-axis to the growth rate of intake in order to improve completeness by making the contrast more visible.
-2. I also want to separate the types of foods that promote health from those that have a greater impact on the environment and health, and merge some food types according to the content of the original text. In this way, it is easier for the audience to understand the meaning of data and thus increase its perceptibility and engagement.
-3. In the chart, I want to use as few colors as possible to improve perceptibility.
-4. I want to convert the original data into the annual growth rate of dietary intake. This makes the data more meaningful and understandable while also conforming to the information mentioned above.
-
 💡 **_Thoughts of Critique Method_**  
 
 This evaluation method, in my opinion, is quite effective because it includes all of the information required to analyze a data visualization.
 * "Color effectiveness" can be used as an evaluation criterion. While this visualization has some aesthetics, the sheer number of colors makes viewing difficult anyway. This needs to be combined with the kind of chart to change the color. Although many colors represent many kinds, some colors are difficult to observe in the chart. Therefore the visualization is less color efficient.
 * “Type of visualization” is another metric. Although the stacked column chart used in this visualization is easy to understand, when there are more than 10 pieces of information that need to be listed, the stacked column chart will not work. Because it is impossible to clearly see the specific data of each category.
 
-
 ### ✏️ Sketch and Feedbacks
 
-According to the data visualization effectiveness profile, I draw a sketch:  
+According to the data visualization effectiveness profile, I draw a sketch. I changed the chart format to bar chart. I changed the original data to percentage growth and combined some data so that the overall data doesn't look too messy. In addition, I changed the color to a uniform color to make the audience look more comfortable.
 
 <div class="infogram-embed" data-id="6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" data-type="interactive" data-title="Health Diet"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6323d3cf-83fa-4d0f-8013-6fcf5d3b46ba" style="color:#989898!important;text-decoration:none!important;" target="_blank">Health Diet</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
