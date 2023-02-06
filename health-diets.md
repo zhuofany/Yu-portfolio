@@ -56,29 +56,36 @@ This evaluation method, in my opinion, is quite effective because it includes al
 **_👦Respondent One: Software Developer, Male, mid 40's_**  
 
 * Q1: Can you tell me what you think this is?  
-I think this is about 
+I think it's an analysis of dietary health data on different continents of the world.  
 
 * Q2: Can you describe to me what this is telling you?  
+This graph tells me that the growth rate of healthy food is negative in most countries. However, the growth rate of foods that have a greater impact on the environment and health, such as red meat, processed meat or dairy, is positive. And the intake of healthy food or unhealthy food is related to the degree of development of the country.  
 
 * Q3: Is there anything you find surprising or confusing?  
+There are so many food types that it can be difficult to analyze. And although the explanatory text below the title mentions what are the foods that have a greater impact on the environment and health, there seems to be no distinction in the chart.  
 
 * Q4: Who do you think is the intended audience for this?  
+ I guess the intended audience will be the heads of health organizations in each country or experts in related fields.  
  
 * Q5: Is there anything you would change or do differently?  
-
+I would like to replace the above filter, because it is difficult to compare the data of each country in the current form. I would also like to see a chart clearly distinguishing between good and bad foods.  
 
 **_👧Respondent Two: Student, Female, mid 20's_**  
 
 * Q1: Can you tell me what you think this is?  
+This may be a report on the data on the global increase in diet in the past ten years.  
 
 * Q2: Can you describe to me what this is telling you?  
+I can see that the negative growth of food intake has been relatively significant over the past ten years in some continents, like Africa and Oceania. The least amount of food categories in North America are experiencing negative growth. The positive and negative dietary changes connected to the country's income profile are displayed in the text below the heading.  
 
 * Q3: Is there anything you find surprising or confusing?  
+The dynamic display that followed this screening and classification pleasantly surprised me. However, I'm a little perplexed because it doesn't appear that the foods mentioned in the text that have a significant impact on the environment and health are represented in this chart.  
 
 * Q4: Who do you think is the intended audience for this?  
+People who work for a health organization, for example, or those who want to learn how to improve their diet, I believe, are the intended audience.  
  
 * Q5: Is there anything you would change or do differently?  
-
+If it were up to me, I would either compare data from various continents in a single plane or group continents that perform reasonably well together. We can only draw the second conclusion from the text in this way.  
 
 ### 📓Conclusions from Feedbacks
 
