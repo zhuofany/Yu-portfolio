@@ -88,31 +88,24 @@ People who work for a health organization, for example, or those who want to lea
 * Q5: Is there anything you would change or do differently?  
 If it were up to me, I would either compare data from various continents in a single plane or group continents that perform reasonably well together. We can only draw the second conclusion from the text in this way.  
 
+### 📓 Feedbacks from classmates
+1. Love
+   * Love the single color used.
+   * Love the pop-up labels on the chart.
+   * Love that each continent is represented by a graph.
+2. Something could change
+   * Remove the marks of percentage numbers for each bar. With pop-ups and X-axis data already in the visualization, too many data flags can get confusing.
+   * Put all the charts into one page to make the comparison much clearer.
+   * Give different colors for the two large catogories, "health-improving food" and "health-affecting food".
+  
 ### 📓 Conclusions from Feedbacks  
 1. The current sketch as a whole can correctly express the meaning of the data.
 2. The bar charts from various continents should be compared on a single board, and the filter should be removed.
 3. Color or other methods that can better explain the problem should be used to distinguish between foods that promote health and foods that are more harmful to the environment and health.
 4. I believe some textual expressions can be added to clarify the point of the visualization.
 
-### 🎆 Redesigned Visualization  
-💡 Tips: Audiences can use the ranking function to rank the growth rate of different food intake for each country.  
-<div class='tableauPlaceholder' id='viz1675571602280' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdietsdashboard&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
-</div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1675571602280');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
-
-<br />
-
-### 📓 Feedbacks from classmates
-1. Love
-   * Love the order filters and the colors used.
-   * Love the pop-up labels on the chart.
-   * Love the grid of charts in a same page instead of using the filter in the sketch.
-2. Something could change
-   * Remove the marks of percentage numbers for each bar. With pop-ups and X-axis data already in the visualization, too many data flags can get confusing.
-   * Give egg and fish same color with meat and diary. (-> This one cannot realize because the context says dairy and meat are foods associated with high environment and health impacts.)
-
 ### 🎆 Final Visualization
+💡 Tips: Audiences can use the ranking function to rank the growth rate of different food intake for each country.  
 <div class='tableauPlaceholder' id='viz1675713265429' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard_2&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdietsdashboard_2&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdietsdashboard_2&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1675713265429');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
