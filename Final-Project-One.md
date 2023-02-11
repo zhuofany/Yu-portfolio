@@ -35,7 +35,10 @@ The project will be divided into several stages:
 5. Coffee's real benefits.
 6. Call to action: the moderate volume of daily coffee consumption.  
 
+### Initial Sketches
 #### Stage 1: Trend of offee consumption worldwide
-
 <img src="global-consumption.jpg" width="800">
+-> This chart shows an obvious increase of global coffee consumption in the last decade.  
+[Data Source](https://www.statista.com/statistics/292595/global-coffee-consumption/)  
+
 
