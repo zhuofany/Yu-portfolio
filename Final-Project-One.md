@@ -35,8 +35,8 @@ The project will be divided into several stages:
 5. Coffee's could be part of the healthy diet.
 6. Call to action: the moderate volume of daily coffee consumption.  
 
-### Initial Sketches
-#### Stage 1: Trend of offee consumption worldwide
+## Initial Sketches
+### Stage 1: Trend of offee consumption worldwide
 **_The popularity of coffee among global consumers is increasing year by year._**   
 
 <img src="global-consumption.jpg" width="600">  
@@ -58,14 +58,14 @@ The project will be divided into several stages:
 -> This map shows the top 10 countries having the most coffee consumption in 2023. I have reservations about this visualization and am wondering if I should replace it with a column chart.  
 [Data Source](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)  
 
-#### Stage 2: Caffein intake and content of daily food
+### Stage 2: Caffein intake and content of daily food
 **_Caffeine is everywhere in our lives, but among these beverages, brewed coffee has the highest content. Therefore, it will cause people to worry about drinking coffee and consuming caffeine._**   
 <img src="caffeine-content.jpg" width="600">  
 -> This chart shows caffeine content of commonly consumed beverages. We can see brewed coffee wins the first.  
 [Data Source](https://fdc.nal.usda.gov/fdc-app.html#/?component=1057)  
 
-#### Stage 3: Customer's initial perceptions to coffee
-**_Although many studies have shown that coffee is not a great threat to health, most respondents still believe that coffee is harmful to the body._**   
+### Stage 3: Customer's initial perceptions to coffee
+**_Although many news have reported that coffee is not a great threat to health, most respondents still believe that coffee is harmful to the body._**   
 
 <div class="infogram-embed" data-id="6e6e3051-18dd-4f9c-981e-72a2eec5b7ec" data-type="interactive" data-title="consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6e6e3051-18dd-4f9c-981e-72a2eec5b7ec" style="color:#989898!important;text-decoration:none!important;" target="_blank">consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
 </br>
@@ -75,13 +75,31 @@ The project will be divided into several stages:
 -> This text and data visualization shows that nearly 80% of respondents believed that drinking coffee would increase blood pressure. Only less than 25% of respondents believed that drinking coffee would decrease the risk of cardiovascular disease.  
 [Data Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6471209/)  
 
-#### Stage 4: Coffee's effects on health and disease based on researches
+### Stage 4: Coffee's effects on health and disease based on researches
+**_Based on the research, we could come to a conclusion for the relationship between coffee and health._**   
+<div class="infogram-embed" data-id="25cc4def-0995-4927-85b9-3b22db7d4880" data-type="interactive" data-title="research data"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/25cc4def-0995-4927-85b9-3b22db7d4880" style="color:#989898!important;text-decoration:none!important;" target="_blank">research data</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
+</br>
+-> This visualization represents that most of the current research shows that drinking coffee in moderation has no risk to health.  
+[Data Source:](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12206?casa_token=Nu_sgxq6pXMAAAAA%3AYBW6O7PhTqH4cIg0Hmo1wG5pWO_CSPpCypI8nJMDMp8XbMsSV3W95Wp_7N_JpbSNe3dlyuzYu_Vq)  
+
+### Stage 5: Coffee's could be part of the healthy diet.
+**_Point out the theme of the project to increase the audience's attention and interest._**   
+<div class="infogram-embed" data-id="c4d2b26f-67c8-4237-a14b-bbe094e5ea8d" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c4d2b26f-67c8-4237-a14b-bbe094e5ea8d" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
+</br>
+-> This visualization represents moderate coffee assumption could decrease risks of certain diseases.  
+[Data Source:](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  
+
+### Stage 6: Call to action: the moderate volume of daily coffee consumption
+
+<div class="infogram-embed" data-id="653e88e4-06da-46b9-b1de-dbb66bdce20c" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/653e88e4-06da-46b9-b1de-dbb66bdce20c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
+</br>
+-> This is the last part of the project, which is for calling to action. I hope to graphically illustrate the most appropriate amount of daily coffee consumption and caffeine intake for adults. I also hope to bring the audience the conclusion they want to know.  
+[Data Source]([https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007))  
+
+## Data Source 💬
 
 
-#### Stage 5: Coffee's could be part of the healthy diet.
-
-
-#### Stage 6: Call to action: the moderate volume of daily coffee consumption
-
+## Method and Medium
+The final project will be presented using shorthand. The above charts will be drawn with Flourish, Tableau, Figma, Infogram and other data visualization tools, and will be displayed on the final web page. The first stage may be divided into two pages. Charts and data visualizations of other stages will be displayed on a separate page.  
 
 
