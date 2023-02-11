@@ -80,14 +80,14 @@ The project will be divided into several stages:
 <div class="infogram-embed" data-id="25cc4def-0995-4927-85b9-3b22db7d4880" data-type="interactive" data-title="research data"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/25cc4def-0995-4927-85b9-3b22db7d4880" style="color:#989898!important;text-decoration:none!important;" target="_blank">research data</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
 <br />
 -> This visualization represents that most of the current research shows that drinking coffee in moderation has no risk to health.  
-[Data Source:](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12206?casa_token=Nu_sgxq6pXMAAAAA%3AYBW6O7PhTqH4cIg0Hmo1wG5pWO_CSPpCypI8nJMDMp8XbMsSV3W95Wp_7N_JpbSNe3dlyuzYu_Vq)  
+[Data Source](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12206?casa_token=Nu_sgxq6pXMAAAAA%3AYBW6O7PhTqH4cIg0Hmo1wG5pWO_CSPpCypI8nJMDMp8XbMsSV3W95Wp_7N_JpbSNe3dlyuzYu_Vq)  
 
 ### Stage 5: Coffee's could be part of the healthy diet.
 **_Point out the theme of the project to increase the audience's attention and interest._**   
 <div class="infogram-embed" data-id="c4d2b26f-67c8-4237-a14b-bbe094e5ea8d" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c4d2b26f-67c8-4237-a14b-bbe094e5ea8d" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
 <br />
 -> This visualization represents moderate coffee assumption could decrease risks of certain diseases.  
-[Data Source:](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  
+[Data Source](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  
 
 ### Stage 6: Call to action: the moderate volume of daily coffee consumption
 
