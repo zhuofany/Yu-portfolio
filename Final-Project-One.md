@@ -37,8 +37,15 @@ The project will be divided into several stages:
 
 ### Initial Sketches
 #### Stage 1: Trend of offee consumption worldwide
+**_The popularity of coffee among global consumers is increasing year by year._**   
+
 <img src="global-consumption.jpg" width="800">
 -> This chart shows an obvious increase of global coffee consumption in the last decade.  
 [Data Source](https://www.statista.com/statistics/292595/global-coffee-consumption/)  
+
+<img src="worldwide-volume.jpg" width="800">
+-> This visualizations show that coffee consumption is increasing year by year, and coffee has become the mainstream among hot drinks.  
+[Data Source](https://www-statista-com.cmu.idm.oclc.org/outlook/cmo/hot-drinks/worldwide#revenue)  
+
 
 
