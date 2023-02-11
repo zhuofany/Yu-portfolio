@@ -112,6 +112,9 @@ The project will be divided into several stages:
 | [Harvard: The nutrition Source_Coffee](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  | The data and ideas about the benefit of coffee will be cited.  |
 | [Nervous About Caffeine? Don’t Be.](https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/)  | Provide inspiration for my topic, and data on caffeine intake will be used.  |
 | [The Impact of Coffee on Health](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007) | The data in the research will be used.  |
+| [Coffee Photos](https://www.pexels.com/search/coffee/) | The pictures of coffee will be used.  |
+
+Most of the data sources above will be used to analyze the data and redesign the visualization. Simultaneously, to better convey the correct suggestions to the audience, this project will refer to the ideas and conclusions of some research reports. The main background and inserted images will be from the previous website. If new and available data sources are discovered when the report is developing, they will be supplemented in due course.   
 
 ## Method and Medium ✈️
 The final project will be presented using shorthand. The above charts will be drawn with Flourish, Tableau, Figma, Infogram and other data visualization tools, and will be displayed on the final web page. The first stage may be divided into two shorthand pages. Charts and data visualizations of other stages will be displayed on a separate page.  
