@@ -20,4 +20,4 @@ I can do this by drinking up to 400 milligrams of caffeine a day, roughly the am
 
 
 ### Story Arc
-
+<img src="story-arc.jpg" width="800">
