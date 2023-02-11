@@ -99,20 +99,21 @@ The project will be divided into several stages:
 
 ## Data Source 💬
 **_list of data_**  
-| Name and URL | Desceiption |  
-| ------------- | ------------- |  
-| [Statista: Coffee consumption worldwide from 2012/13 to 2020/21](https://www.statista.com/statistics/292595/global-coffee-consumption/)  | The specific data will be used to re-visualize and calculate the global coffee consumption growth rate.  |  
-| [World Coffee Consumption Statistics](https://coffee-rank.com/world-coffee-consumption-statistics/)  | Data from the report and analysis of world coffee consumption trends will be used for report.  |  
-| [Coffee consumption hits two-decade high - Spring 2022 National Coffee Data Trends report](https://www.ncausa.org/Newsroom/Coffee-consumption-hits-two-decade-high-2022-NCDT)  | Analysis and idea of USA coffee consumption will be used for report.  |  
-| [Statista: Hot Drinks Consumer Markets Insights](https://www-statista-com.cmu.idm.oclc.org/outlook/cmo/hot-drinks/worldwide)  | Data of hot drinks revenues and volumes will be used for visualization.  |  
-| [Coffee Consumption by Country 2023](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)  | Data on the top 10 countries that drink the most coffee will be used for visualization.  |  
-| [Caffeine Content of Beverages Data](https://fdc.nal.usda.gov/fdc-app.html#/?component=1057)  | The dataset will be used to make the visualization。  |  
-| [Consumers’ Perceptions of Coffee Health Benefits and Motives for Coffee Consumption and Purchasing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6471209/)  | A summary of consumer perception in the literature and survey data will be used.  |  
-| [A Comprehensive Overview of the Risks and Benefits of Coffee Consumption](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12206?casa_token=Nu_sgxq6pXMAAAAA%3AYBW6O7PhTqH4cIg0Hmo1wG5pWO_CSPpCypI8nJMDMp8XbMsSV3W95Wp_7N_JpbSNe3dlyuzYu_Vq)  | The overall data in the table of studies on the relationship between coffee and disease in the literature will be used.  |  
-| [Harvard: The nutrition Source_Coffee](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  | The data and ideas about the benefit of coffee will be cited.  |  
-| [Nervous About Caffeine? Don’t Be.](https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/)  | Provide inspiration for my topic, and data on caffeine intake will be used.  |  
-| [The Impact of Coffee on Health](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007) | The data in the research will be used.  |  
-| [Coffee Photos](https://www.pexels.com/search/coffee/) | The pictures of coffee will be used.  |  
+
+| Name and URL | Desceiption |
+| ------------- | ------------- |
+| [Statista: Coffee consumption worldwide from 2012/13 to 2020/21](https://www.statista.com/statistics/292595/global-coffee-consumption/)  | The specific data will be used to re-visualize and calculate the global coffee consumption growth rate.  |
+| [World Coffee Consumption Statistics](https://coffee-rank.com/world-coffee-consumption-statistics/)  | Data from the report and analysis of world coffee consumption trends will be used for report.  |
+| [Coffee consumption hits two-decade high - Spring 2022 National Coffee Data Trends report](https://www.ncausa.org/Newsroom/Coffee-consumption-hits-two-decade-high-2022-NCDT)  | Analysis and idea of USA coffee consumption will be used for report.  |
+| [Statista: Hot Drinks Consumer Markets Insights](https://www-statista-com.cmu.idm.oclc.org/outlook/cmo/hot-drinks/worldwide)  | Data of hot drinks revenues and volumes will be used for visualization.  |
+| [Coffee Consumption by Country 2023](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)  | Data on the top 10 countries that drink the most coffee will be used for visualization.  |
+| [Caffeine Content of Beverages Data](https://fdc.nal.usda.gov/fdc-app.html#/?component=1057)  | The dataset will be used to make the visualization。  |
+| [Consumers’ Perceptions of Coffee Health Benefits and Motives for Coffee Consumption and Purchasing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6471209/)  | A summary of consumer perception in the literature and survey data will be used.  |
+| [A Comprehensive Overview of the Risks and Benefits of Coffee Consumption](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12206?casa_token=Nu_sgxq6pXMAAAAA%3AYBW6O7PhTqH4cIg0Hmo1wG5pWO_CSPpCypI8nJMDMp8XbMsSV3W95Wp_7N_JpbSNe3dlyuzYu_Vq)  | The overall data in the table of studies on the relationship between coffee and disease in the literature will be used.  |
+| [Harvard: The nutrition Source_Coffee](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  | The data and ideas about the benefit of coffee will be cited.  |
+| [Nervous About Caffeine? Don’t Be.](https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/)  | Provide inspiration for my topic, and data on caffeine intake will be used.  |
+| [The Impact of Coffee on Health](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007) | The data in the research will be used.  |
+| [Coffee Photos](https://www.pexels.com/search/coffee/) | The pictures of coffee will be used.  |
 
 Most of the data sources above will be used to analyze the data and redesign the visualization. Simultaneously, to better convey the correct suggestions to the audience, this project will refer to the ideas and conclusions of some research reports. The main background and inserted images will be from the previous website. If new and available data sources are discovered when the report is developing, they will be supplemented in due course.   
 
