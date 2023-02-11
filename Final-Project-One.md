@@ -3,7 +3,7 @@
 [Final Part Ⅰ](Final-Project-One.md)  
 [Final Part Ⅱ](Final-Project-Two.md)  
 [Final Part Ⅲ](Final-Project-Three.md)  
-[Back to Portfolio](README.MD)  
+[Back to Portfolio](README.md)  
 
 ## Outline 📑
 ### Executive Summary 📝
