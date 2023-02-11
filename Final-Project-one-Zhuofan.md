@@ -1,9 +1,9 @@
 # Final Project - COFFEE AND HEALTH
 ## Final Project Index
-[Final Part Ⅰ](Final-Project-one-Zhuofan.md)
-[Final Part Ⅱ](Final-Project-two-Zhuofan.md)
-[Final Part Ⅲ](Final-Project-three-Zhuofan.md)
-[Back to Portfolio](README.MD)
+[Final Part Ⅰ](Final-Project-one-Zhuofan.md)  
+[Final Part Ⅱ](Final-Project-two-Zhuofan.md)  
+[Final Part Ⅲ](Final-Project-three-Zhuofan.md)  
+[Back to Portfolio](README.MD)  
 
 ## Outline 📑
 ### Executive Summary 📝
