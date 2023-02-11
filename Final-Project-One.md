@@ -54,7 +54,7 @@ The project will be divided into several stages:
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676077162952');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>  
-</br>
+<br />
 -> This map shows the top 10 countries having the most coffee consumption in 2023. I have reservations about this visualization and am wondering if I should replace it with a column chart.  
 [Data Source](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)  
 
@@ -68,7 +68,7 @@ The project will be divided into several stages:
 **_Although many news have reported that coffee is not a great threat to health, most respondents still believe that coffee is harmful to the body._**   
 
 <div class="infogram-embed" data-id="6e6e3051-18dd-4f9c-981e-72a2eec5b7ec" data-type="interactive" data-title="consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6e6e3051-18dd-4f9c-981e-72a2eec5b7ec" style="color:#989898!important;text-decoration:none!important;" target="_blank">consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
-</br>
+<br />
 -> This visualization shows respondents' original thoughts about the effects of coffee on their health in a research.
 
 <img src="consumer-perception-text.jpg" width="600">  
@@ -78,21 +78,21 @@ The project will be divided into several stages:
 ### Stage 4: Coffee's effects on health and disease based on researches
 **_Based on the research, we could come to a conclusion for the relationship between coffee and health._**   
 <div class="infogram-embed" data-id="25cc4def-0995-4927-85b9-3b22db7d4880" data-type="interactive" data-title="research data"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/25cc4def-0995-4927-85b9-3b22db7d4880" style="color:#989898!important;text-decoration:none!important;" target="_blank">research data</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
-</br>
+<br />
 -> This visualization represents that most of the current research shows that drinking coffee in moderation has no risk to health.  
 [Data Source:](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12206?casa_token=Nu_sgxq6pXMAAAAA%3AYBW6O7PhTqH4cIg0Hmo1wG5pWO_CSPpCypI8nJMDMp8XbMsSV3W95Wp_7N_JpbSNe3dlyuzYu_Vq)  
 
 ### Stage 5: Coffee's could be part of the healthy diet.
 **_Point out the theme of the project to increase the audience's attention and interest._**   
 <div class="infogram-embed" data-id="c4d2b26f-67c8-4237-a14b-bbe094e5ea8d" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c4d2b26f-67c8-4237-a14b-bbe094e5ea8d" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
-</br>
+<br />
 -> This visualization represents moderate coffee assumption could decrease risks of certain diseases.  
 [Data Source:](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  
 
 ### Stage 6: Call to action: the moderate volume of daily coffee consumption
 
 <div class="infogram-embed" data-id="653e88e4-06da-46b9-b1de-dbb66bdce20c" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/653e88e4-06da-46b9-b1de-dbb66bdce20c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
-</br>
+<br />
 -> This is the last part of the project, which is for calling to action. I hope to graphically illustrate the most appropriate amount of daily coffee consumption and caffeine intake for adults. I also hope to bring the audience the conclusion they want to know.  
 [Data Source 1](https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/)  
 [Data Source 2](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007)
