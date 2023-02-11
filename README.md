@@ -43,5 +43,5 @@ Here are works of Telling Stories With Data 🌻
 [Health-improving foods Visualization](health-diets.md)   
 
 #### 👑 Final Project  
-[Final Project](Final-Project-Zhuofan.md)  
+[Final Project](Final-Project-one-Zhuofan.md)  
 
