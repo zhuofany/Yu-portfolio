@@ -32,7 +32,7 @@ The project will be divided into several stages:
 2. Caffein intake and content of daily food.
 3. Customer's initial perceptions to coffee.
 4. Coffee's effects on health and disease based on researches.
-5. Coffee's real benefits.
+5. Coffee's could be part of the healthy diet.
 6. Call to action: the moderate volume of daily coffee consumption.  
 
 ### Initial Sketches
@@ -54,10 +54,34 @@ The project will be divided into several stages:
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676077162952');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>  
-
+</br>
 -> This map shows the top 10 countries having the most coffee consumption in 2023. I have reservations about this visualization and am wondering if I should replace it with a column chart.  
+[Data Source](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)  
 
 #### Stage 2: Caffein intake and content of daily food
-
+**_Caffeine is everywhere in our lives, but among these beverages, brewed coffee has the highest content. Therefore, it will cause people to worry about drinking coffee and consuming caffeine._**   
 <img src="caffeine-content.jpg" width="600">  
--> This chart shows 
+-> This chart shows caffeine content of commonly consumed beverages. We can see brewed coffee wins the first.  
+[Data Source](https://fdc.nal.usda.gov/fdc-app.html#/?component=1057)  
+
+#### Stage 3: Customer's initial perceptions to coffee
+**_Although many studies have shown that coffee is not a great threat to health, most respondents still believe that coffee is harmful to the body._**   
+
+<div class="infogram-embed" data-id="6e6e3051-18dd-4f9c-981e-72a2eec5b7ec" data-type="interactive" data-title="consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6e6e3051-18dd-4f9c-981e-72a2eec5b7ec" style="color:#989898!important;text-decoration:none!important;" target="_blank">consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
+</br>
+-> This visualization shows respondents' original thoughts about the effects of coffee on their health in a research.
+
+<img src="consumer-perception-text.jpg" width="600">  
+-> This text and data visualization shows that nearly 80% of respondents believed that drinking coffee would increase blood pressure. Only less than 25% of respondents believed that drinking coffee would decrease the risk of cardiovascular disease.  
+[Data Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6471209/)  
+
+#### Stage 4: Coffee's effects on health and disease based on researches
+
+
+#### Stage 5: Coffee's could be part of the healthy diet.
+
+
+#### Stage 6: Call to action: the moderate volume of daily coffee consumption
+
+
+
