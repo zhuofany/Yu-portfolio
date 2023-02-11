@@ -94,12 +94,26 @@ The project will be divided into several stages:
 <div class="infogram-embed" data-id="653e88e4-06da-46b9-b1de-dbb66bdce20c" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/653e88e4-06da-46b9-b1de-dbb66bdce20c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>  
 </br>
 -> This is the last part of the project, which is for calling to action. I hope to graphically illustrate the most appropriate amount of daily coffee consumption and caffeine intake for adults. I also hope to bring the audience the conclusion they want to know.  
-[Data Source]([https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007))  
+[Data Source 1](https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/)  
+[Data Source 2](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007)
 
 ## Data Source 💬
+**_list of data_**  
+| Name and URL | Desceiption |
+| ------------- | ------------- |
+| [Statista: Coffee consumption worldwide from 2012/13 to 2020/21](https://www.statista.com/statistics/292595/global-coffee-consumption/)  | The specific data will be used to re-visualize and calculate the global coffee consumption growth rate.  |
+| [World Coffee Consumption Statistics](https://coffee-rank.com/world-coffee-consumption-statistics/)  | Data from the report and analysis of world coffee consumption trends will be used for report.  |
+| [Coffee consumption hits two-decade high - Spring 2022 National Coffee Data Trends report](https://www.ncausa.org/Newsroom/Coffee-consumption-hits-two-decade-high-2022-NCDT)  | Analysis and idea of USA coffee consumption will be used for report.  |
+| [Statista: Hot Drinks Consumer Markets Insights](https://www-statista-com.cmu.idm.oclc.org/outlook/cmo/hot-drinks/worldwide)  | Data of hot drinks revenues and volumes will be used for visualization.  |
+| [Coffee Consumption by Country 2023](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)  | Data on the top 10 countries that drink the most coffee will be used for visualization.  |
+| [Caffeine Content of Beverages Data](https://fdc.nal.usda.gov/fdc-app.html#/?component=1057)  | The dataset will be used to make the visualization。  |
+| [Consumers’ Perceptions of Coffee Health Benefits and Motives for Coffee Consumption and Purchasing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6471209/)  | A summary of consumer perception in the literature and survey data will be used.  |
+| [A Comprehensive Overview of the Risks and Benefits of Coffee Consumption](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12206?casa_token=Nu_sgxq6pXMAAAAA%3AYBW6O7PhTqH4cIg0Hmo1wG5pWO_CSPpCypI8nJMDMp8XbMsSV3W95Wp_7N_JpbSNe3dlyuzYu_Vq)  | The overall data in the table of studies on the relationship between coffee and disease in the literature will be used.  |
+| [Harvard: The nutrition Source_Coffee](https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/)  | The data and ideas about the benefit of coffee will be cited.  |
+| [Nervous About Caffeine? Don’t Be.](https://nationalcoffee.blog/2017/05/04/nervous-about-caffeine-dont-be/)  | Provide inspiration for my topic, and data on caffeine intake will be used.  |
+| [The Impact of Coffee on Health](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-115007) | The data in the research will be used.  |
 
-
-## Method and Medium
-The final project will be presented using shorthand. The above charts will be drawn with Flourish, Tableau, Figma, Infogram and other data visualization tools, and will be displayed on the final web page. The first stage may be divided into two pages. Charts and data visualizations of other stages will be displayed on a separate page.  
+## Method and Medium ✈️
+The final project will be presented using shorthand. The above charts will be drawn with Flourish, Tableau, Figma, Infogram and other data visualization tools, and will be displayed on the final web page. The first stage may be divided into two shorthand pages. Charts and data visualizations of other stages will be displayed on a separate page.  
 
 
