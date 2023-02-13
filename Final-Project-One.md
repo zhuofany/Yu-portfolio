@@ -120,4 +120,9 @@ Most of the data sources above will be used to analyze the data and redesign the
 ## Method and Medium ✈️
 The final project will be presented using shorthand. The above charts will be drawn with Flourish, Tableau, Figma, Infogram and other data visualization tools, and will be displayed on the final web page. The first stage may be divided into two shorthand pages. Charts and data visualizations of other stages will be displayed on a separate page.  
 
+## Class Feedback 🗒️
+1. For Stage 1, 
+2. For Stage 2, it's better to add a explanation for the first two categories.
+3. 
+
 
