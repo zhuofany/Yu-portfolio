@@ -8,3 +8,8 @@
 
 ## Wireframes and Storyboards
 Topic Review: 
+
+
+### Part 1: 
+Story 1:
+<img src="coffee1.jpg" width="800">
