@@ -108,7 +108,28 @@ Picture Source is listed in th Data Source Part.
 As shown in the moodboard, the storyboard's dominant hue will be a shade of brown that resembles coffee. In some visualizations, the colors green and red are used to denote the advantages and risks, respectively.  
 
 ## User Research and Overview 📝
+**Topic:**
+Take Caffeine Concerns Less Seriously, coffee can be part of a healthy diet.  
+
 **Target Audience:**  
+Coffee addicts and those who believe coffee is harmful to the body are the primary target audiences.  
+This project's call to action is to inform the audience that drinking coffee in moderation may be beneficial to the body, and to clarify how many cups of coffee constitute a moderate consumption.  
+
+**Approach to identifying representative individuals to interview:**  
+The majority of my friends and family are coffee enthusiasts. People of different ages may have different perspectives on the relationship between coffee and health. As a result, in order to ensure the diversity of the respondents, I chose respondents of various ages, including those in their 70s, 90s, and Gen-Z.
+In addition, because men and women may have different perspectives on the health benefits of coffee, I interviewed both men and women.
+In this way, I hope that the interviewees can provide me with feedback on this story from various perspectives.  
+
+_Respondent 1:_
+**Q1: Is each part of the story has a clear and pertinent description?**
+**Q2: Is the overall logic of the story clear enough to include a call to action?**
+**Q3: Which visualization or content do you think works well or is most appealing to you?**
+**Q4: Is each part's visualization clear in expressing what is intended to be conveyed? Is there something confusing?**
+**Q5: Will you respond to the call to action after reading this story? Or how will this story inspire you?**
+**Q6: What else do you think could be improved?**
+
+_Respondent 2: _
+_Respondent 3: _
 
 
 
@@ -138,5 +159,9 @@ As shown in the moodboard, the storyboard's dominant hue will be a shade of brow
 | [Coffee Photos](https://coffee-mill.com/coffee-and-mood/) | The pictures of coffee will be used.  |
 
 Most of the data sources above will be used to analyze the data and redesign the visualization. Simultaneously, to better convey the correct suggestions to the audience, this project will refer to the ideas and conclusions of some research reports. The main background and inserted images will be from the previous website. If new and available data sources are discovered when the report is developing, they will be supplemented in due course.   
+
+
+## In-class Feedback ✏️
+
 
 
