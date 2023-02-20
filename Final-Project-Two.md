@@ -10,6 +10,8 @@
 Topic Review: Take Caffeine Concerns Less Seriously, coffee can be part of a healthy diet.  
 The data show that people have been drinking more coffee lately. For a long time, many people believed that coffee and caffeine would cause irreversible damage to the body.  According to new research, drinking coffee in moderation has no negative effects on the body and may even have some benefits. As a result, through data support, this project hopes to clarify this misunderstanding and tell the audience how much coffee they should drink every day.
 
+<img src="title.png" width="800">
+
 ### Part 1: Analyze coffee consumption trends ☕
 In this section, I'd like to go over the current state of the coffee market from various perspectives.  
 
@@ -188,6 +190,8 @@ Most of the data sources above will be used to analyze the data and redesign the
 
 
 ## In-class Feedback ✏️
-
+1. Since the final background image of shorthand is mostly brown, some charts can change the color, which can give the audience a greater visual impact.
+2. Shorthand's homepage can be changed to a more eye-catching title, which can attract the audience's interest and continue to listen.
+3. There are many visualizations about the coffee market and consumption trend, and some of them can be displayed in the form of text.
 
 
