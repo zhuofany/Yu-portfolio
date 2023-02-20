@@ -126,7 +126,7 @@ In this way, I hope that the interviewees can provide me with feedback on this s
 ### Interview and Findings
 
 
-| **Questions**               | **Interview 1 (Female, mid 40's)** | **Interview 2** | **Interview 3** |
+| **Questions**               | **Interview 1 (Male, mid 40's)** | **Interview 2 (Female, mid 20's)** | **Interview 3** |
 |-------------------------|--------------------------------|-------------|-------------|
 |  **Q1: Is each part of the story has a clear and pertinent description?** | Insightful feedback            |             |             |
 |  **Q2: Is the overall logic of the story clear enough to include a call to action?**                       |                                |             |             |
