@@ -132,6 +132,7 @@ In this way, I hope that the interviewees can provide me with feedback on this s
 | Find out what audiences think about the appeal of this story. Make sure the story can engage the audience and ensure the usefulness of the story.     |  Will you respond to the call to action after reading this story? Or how will this story inspire you?                |
 | Find out if there are other issues that could be improved beyond the above.     | What else do you think could be improved?                |
 
+<br />
 
 ### Interview and Findings
 
@@ -145,17 +146,20 @@ In this way, I hope that the interviewees can provide me with feedback on this s
 |  **Q5: Will you respond to the call to action after reading this story? Or how will this story inspire you?**                       |   Certainly! I would feel less worried about what my coffee intake would do to my body. And I will rest assured to drink two cups of coffee a day!                             |   When I see the call to action part, I suddenly feel relieved. Since I'm an avid coffee lover, I can drink 2-3 cups a day. I was worried at one point that my heart would be affected, but it looks like I can drink coffee in peace.          |  I will be affected by the last call to action. Although I like drinking coffee, my parents always tell me that drinking coffee is not good for my health. After seeing this story, I will convey to them that drinking coffee in moderation is not harmful to the body.           |
 |  **Q6: What else do you think could be improved?**                       |   Overall, I think the title of the visualization can directly emphasize the point of view of the story and highlight the core points. For example, for a bar chart of caffeine content, the title can be "Caffeine actually exists in a large amount in non-coffee drinks", and the words "non-coffee drinks" can be bolded and the font size increased. You can also consider changing it to the same as the chart s color.                             |  Overall I think there is no other room for improvement.           |   In addition to the above issues, I think maybe some colors need to be changed. Just like the color problem of part 4 mentioned just now, can the colors of some titles be changed to the same color system? For example, in the title of part 6, the two enlarged numbers may be changed to brown.          |
 
+<br />
 
 ### Identified changes for Part III
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| **Research synthesis**                       | **Anticipated changes for Part III**                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|  The overall logical order is relatively clear, but the transition of part 1 and part 2 can be modified. | The order of parts 2 and 3 can be adjusted, first give the public's awareness of the impact of coffee on health, and then suggest that caffeine may not be the culprit. This will have more impact. |
+|  Some visualizations can explicitly show units without confusion.                                        |   For the pie chart of Part 1.2, a percentage symbol should be added, otherwise it may be mistaken for a quantity instead of a percentage.                                                                              |
+|  The titles of some visualizations need to be changed to more clearly and directly convey the meaning of the story.                                        |  For the first map of 1.3, the title needs to be changed to "Top 10 countries with the highest total coffee consumption".<br> The title of Part 2 can be changed to "Caffeine actually exists in a large amount in non-coffee drinks".<br> The title of Part 5 was changed to "Moderate coffee may decrease the disease risk by". <br> The title of the second line of Part 6 is changed to "Up to 400 mg caffeine daily".                                        |
+|  Some visualizations are not very intuitive and clear, and can be simplified.                                        |     For the visualization of Part 3, I will try to place 4 villain icons in the "total" and 10 villain icons in the female and male filters. This will make the display ratio clearer.<br> For Part 4, I will combine the two series of benefit and null effect into "Benefit & null effect" to compare with risk. In this way, it is clearer to express the theme of this part of the story "Most research shows that coffee is not harmful to the body".                  |
+|  The colors of some visualizations can be adjusted.                                        |   For part 4, after adjusting according to the above questions, consider whether to continue to use brown colors instead of green and red.<br> For part 6, reduce the transparency of the fifth cup of coffee to avoid misunderstandings by the audience.    |
 
+
+<br />
 
 ## Data Source 💬
 **_list of data_**  
