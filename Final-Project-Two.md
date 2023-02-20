@@ -10,9 +10,6 @@
 Topic Review: Take Caffeine Concerns Less Seriously, coffee can be part of a healthy diet.  
 The data show that people have been drinking more coffee lately. For a long time, many people believed that coffee and caffeine would cause irreversible damage to the body.  According to new research, drinking coffee in moderation has no negative effects on the body and may even have some benefits. As a result, through data support, this project hopes to clarify this misunderstanding and tell the audience how much coffee they should drink every day.
 
-**About Color:**  
-The storyboard's dominant hue will be a shade of brown that resembles coffee. In some visualizations, the colors green and red are used to denote the advantages and risks, respectively.  
-
 ### Part 1: Analyze coffee consumption trends ☕
 In this section, I'd like to go over the current state of the coffee market from various perspectives.  
 
@@ -103,9 +100,16 @@ The conclusion of the narrative is at this point, and the audience is called to 
 [Data Source](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)  
 
 ## Moodboard 🖌️
+<img src="moodboard.png" width="800">
 
+Picture Source is listed in th Data Source Part.  
+
+**About Color:**  
+As shown in the moodboard, the storyboard's dominant hue will be a shade of brown that resembles coffee. In some visualizations, the colors green and red are used to denote the advantages and risks, respectively.  
 
 ## User Research and Overview 📝
+**Target Audience:**  
+
 
 
 
