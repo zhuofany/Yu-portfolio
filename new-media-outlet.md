@@ -7,6 +7,6 @@ This visualization shows a survey about the "media trust". It shows how much Ame
 </script>
 
 <br />
-[Data Source](https://www.niemanlab.org/2018/10/heres-how-much-americans-trust-38-major-news-organizations-hint-not-all-that-much/)
+[Data Source](https://www.niemanlab.org/2018/10/heres-how-much-americans-trust-38-major-news-organizations-hint-not-all-that-much/)  
 <br />
 ⬅️[Back to Portfolio ](README.md)
