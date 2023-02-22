@@ -107,7 +107,7 @@ _**The previous chart is:**_
 
 
 ### Part 6: Call to action - what is moderate consumption of coffee?
-I changed the transparency of the last coffee cup to make the fifth one more transparent. In this way, the data of the moderate consumption of the title can be better explained.
+I changed the transparency of the last coffee cup to make the fifth one more transparent. In this way, the data of the moderate consumption of the title can be better explained. In addition, I changed the title "on average 400mg caffeine daily" to "Up to 400mg caffeine daily".
 
 _**The previous chart is:**_  
 <div class="infogram-embed" data-id="7c190806-1617-4d66-ad28-e80d96fac98e" data-type="interactive" data-title="Copy: call to action"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/7c190806-1617-4d66-ad28-e80d96fac98e" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: call to action</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
@@ -117,6 +117,8 @@ _**The previous chart is:**_
 
 
 ## The audience
+
+
 
 ## Final design decisions
 
