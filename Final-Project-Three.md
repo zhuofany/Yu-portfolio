@@ -7,3 +7,13 @@
 [Back to Portfolio](README.md)  
 
 ## Changes made since Part Ⅱ
+
+## Final Project
+
+### The audience
+
+### Final design decisions
+
+### References
+
+## Final thoughts
