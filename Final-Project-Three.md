@@ -118,6 +118,9 @@ _**The previous chart is:**_
 
 ## Final Report
 ### The Audience
+Because the final call to action actually instructs the audience on how much coffee is appropriate to consume (the moderate coffee consumption) and to not be overly concerned with caffeine, addicts of coffee are most likely to gain from this. In addition, many coffee drinkers worry excessively about the negative effects of coffee on their bodies, or some people want to try drinking coffee but stop due to excessive concern. All of them will be the audience of this project.  
+While I was reviewing user research, I discovered that a respondent had stated that her family would discourage her from drinking coffee by telling her that it is bad for her body. My family members also say that quite frequently. In fact, in these situations, the target audience for this project can be categorized as parents of high school or college students. I want to use this project to help them become less overly concerned about coffee and its effects.  
+In conclusion, the target audience for this project consists of coffee addicts, consumer who drink it regularly but are concerned about its health effects, people who want to drink coffee but worry about the risks, and parents of high school or college students who are concerned about caffeine's effects.  
 
 ### Final Design Decisions
 
