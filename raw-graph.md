@@ -12,12 +12,14 @@ For the following visualization, I used Streamgraph to analyze Tandem Bicycle Me
 
 <img src= "olympic.png" width="800">
 
+[Data Source](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 <br />
 
 For the next visualization, I used Radar Chart to show the FIFA Player power rankings.
 
 <img src= "player.png" width="800">
 
+[Data Source](https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset)
 
 <br />
 
