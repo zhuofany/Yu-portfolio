@@ -7,6 +7,8 @@
 [Back to Portfolio](README.md)  
 
 ## Changes made since Part Ⅱ
+1. Title page: 
+
 
 
 ## Final Project
