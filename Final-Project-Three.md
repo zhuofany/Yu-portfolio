@@ -19,7 +19,7 @@ So, in this section, I will primarily change the following:
 3. Refine the storyboard in accordance with Shorthand's production requirements.
 4. Add some text, ask questions or list data at some key transitions or story reversals to attract audiences.  
 
-## The Audience
+## The Audience 📓
 Because the final call to action actually instructs the audience on how much coffee is appropriate to consume (the moderate coffee consumption) and to not be overly concerned with caffeine, addicts of coffee are most likely to gain from this. In addition, many coffee drinkers worry excessively about the negative effects of coffee on their bodies, or some people want to try drinking coffee but stop due to excessive concern. All of them will be the audience of this project.  
 While I was reviewing user research, I discovered that a respondent had stated that her family would discourage her from drinking coffee by telling her that it is bad for her body. My family members also say that quite frequently. In fact, in these situations, the target audience for this project can be categorized as parents of high school or college students. I want to use this project to help them become less overly concerned about coffee and its effects.  
 In conclusion, the target audience for this project consists of coffee addicts, consumer who drink it regularly but are concerned about its health effects, people who want to drink coffee but worry about the risks, and parents of high school or college students who are concerned about caffeine's effects.  
@@ -41,10 +41,13 @@ To match the theme color, the entire shorthand is brown.
 I have changed the title of the final presentation from "Coffee and Health" to "Coffee can be part of a health diet". I wish I could draw the audience in with a headline that is more direct and explicit.  
 
 <img src="title2.png" width="800px">
+<br />
 
 **Introduction Page**  
 After the title, I added a transition paragraph to lead out the whole story.  
+
 <img src="introduction.png" width="800px">
+<br />
 
 #### Part 1: Analyze coffee consumption trends 
 _Part 1.1_  
@@ -52,12 +55,14 @@ I haven't changed the visualization of part 1.1, but I have added explanatory te
 
 **_After change:_**  
 <img src="part1_1.png" width="800px">
+<br />
 
 _Part 1.2_  
 Given that I believe chart 1.2 is somewhat similar to the earlier consumption data and that I want to present the results with more understandable data, I changed the line chart of figure 1.2 into the form of text. In addition, I added the percentage unit for the pie chart.  
 
 **_After change:_**  
 <img src="part1_2.png" width="800px">
+<br />
 
 _Part 1.3_  
 
@@ -69,9 +74,19 @@ In this part, I changed the title of the map chart to "Top 10 Countries with the
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1677102904707');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='600px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='600px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<br />
+
 **_Shorthand page after change:_**  
 
 <img src="part1_3.png" width="800px">
+<br />
+
+
+#### Transition 1
+From this transition, we will enter the first small turning point, but the story is still in the "setup" stage.  
+
+<img src="page1.png" width="800px">
+<br />
 
 
 #### Part 2: Consumers’ initial perceptions on coffee 
@@ -86,9 +101,15 @@ After the change, there are three visualizations in total.
 
 <div class="infogram-embed" data-id="b140a9f4-e070-4f2a-95d9-313ed558f034" data-type="interactive" data-title="update: consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b140a9f4-e070-4f2a-95d9-313ed558f034" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+<br />
+
 <div class="infogram-embed" data-id="b140a9f4-e070-4f2a-95d9-313ed558f034" data-type="interactive" data-title="update: consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b140a9f4-e070-4f2a-95d9-313ed558f034" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+<br />
+
 <div class="infogram-embed" data-id="a9a9af87-ad4d-423e-8564-ef007797d4fc" data-type="interactive" data-title="update: female consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a9a9af87-ad4d-423e-8564-ef007797d4fc" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: female consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+<br />
 
 
 #### Part 3: Caffeine content in beverages 
@@ -100,8 +121,12 @@ For this visualization, I changed the title to "Caffeine Actually Exists in a va
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1677102944337');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='427px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='427px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<br />
+
 **_Shorthand page after change:_**  
+
 <img src="part3.png" width="800px">
+<br />
 
 
 #### Part 4: A summary of the research on the relationship between coffee and health
@@ -110,8 +135,19 @@ For the visualization, I combined the two categories of "benefit" and "null effe
 **_The visualization after change:_**  
 <div class="infogram-embed" data-id="08879182-895b-4194-8d32-ec65701306d2" data-type="interactive" data-title="update: research data"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/08879182-895b-4194-8d32-ec65701306d2" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: research data</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+<br />
+
 **_Shorthand page after change:_**  
+
 <img src="part4.png" width="800px">
+<br />
+
+
+#### Transition 2
+
+From this transition, we will enter the "solution" stage.  
+<img src="page2.png" width="800px">
+<br />
 
 
 #### Part 5: Health benefits of drinking coffee
@@ -120,8 +156,19 @@ According to the user research, the respondent is confused about the meaning of 
 **_The visualization after change:_**  
 <div class="infogram-embed" data-id="725303b4-7a50-4182-98b6-de68d1b845b1" data-type="interactive" data-title="update: benefit"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/725303b4-7a50-4182-98b6-de68d1b845b1" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: benefit</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+<br />
+
 **_Shorthand page after change:_**  
+
 <img src="part5.png" width="800px">
+<br />
+
+
+#### Transition 3
+Before calling to action, I would like to raise the question to the audiences.  
+
+<img src="page3.png" width="800px">
+<br />
 
 
 #### Part 6: Call to action - what is moderate consumption of coffee?
@@ -130,17 +177,25 @@ I changed the transparency of the last coffee cup to make the fifth one more tra
 **_The visualization after change:_**  
 <div class="infogram-embed" data-id="c9f8198a-aeb6-46bd-a55e-c4ba6a4b6b9c" data-type="interactive" data-title="update: call to action"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c9f8198a-aeb6-46bd-a55e-c4ba6a4b6b9c" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: call to action</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+<br />
+
 **_Shorthand page after change:_**  
+
 <img src="part6.png" width="800px">
+<br />
+
 
 #### Resource for audiences
 At the end, I included some links and articles that might be useful for the audience to continue research on coffee and health.  
 
 <img src="resource.png" width="800px">
-
+<br />
 
 ## Final Thoughts
-
+I think there are several key nodes in the process of completing this project:  
+1. The first step is to determine the story's logical structure. The emotion arc is an excellent way to define the story's structure. You can improve the story's appeal and ups and downs by judging the story's climax. In addition to the emotional arc, "setup-conflict-solution" is a simple but effective story structure, and I used it in this project.
+2. Second, I believe the key point is to effectively use user research feedback. It is very useful, whether it is the feedback in the classroom or the suggestions of the three respondents. Because it is the first time they hear the story and see the storyboard, their first impressions and feedback are usually representative of the majority of audiences.
+3. When creating the final storyboard, I discovered that it differs from simply creating some visual charts. Because I need to ensure a story's integrity, unity, readability, audience participation, and so on. To attract audiences, it is necessary to have a good understanding of the rhythm of the storyboard, not to have too many visualizations connected together, and not to have too much textual information, but also to have some ingenuity.
 
 
 ## References
