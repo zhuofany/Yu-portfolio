@@ -6,13 +6,53 @@
 [Final Part Ⅲ](Final-Project-Three.md)  
 [Back to Portfolio](README.md)  
 
-## Changes made since Part Ⅱ
-**Title page:**  
+## Brief of the Final Project 📝
+### PartⅠ  
+In this section, I determined the theme of my story and conducted extensive data and literature research. At this point, I had conceived the story's arc, created six scenarios, and determined the visual sketch for each stage of the story. The feedback from the class taught me how to improve in the next section.  
+### PartⅡ  
+In the second part of the project, I used tools like Tableau, Flourish, and Infogram to convert the sketches into wireframes and enrich the story structure of each section to create a preliminary and complete storyboard. Furthermore, the most important aspect of this section is user research. I present the designed storyboard to three different audiences, each of which is diverse in terms of age, gender, and occupation. Following user research, I received a lot of useful feedback, which allowed me to improve the story structure and the visualization's integrity even further. At the same time I also got peer feedback from class.  
+### PartⅢ  
+In the final step, I will modify the visualization based on user feedback. Simultaneously, when designing the shorthand page, refine the storyboard in accordance with the page's requirements and theme color.
+So, in this section, I will primarily change the following:
+1. Change data visualization based on user feedback.
+2. Modify the story structure to ensure audience participation.
+3. Refine the storyboard in accordance with Shorthand's production requirements.
+4. Add some text, ask questions or list data at some key transitions or story reversals to attract audiences.  
+
+## The Audience
+Because the final call to action actually instructs the audience on how much coffee is appropriate to consume (the moderate coffee consumption) and to not be overly concerned with caffeine, addicts of coffee are most likely to gain from this. In addition, many coffee drinkers worry excessively about the negative effects of coffee on their bodies, or some people want to try drinking coffee but stop due to excessive concern. All of them will be the audience of this project.  
+While I was reviewing user research, I discovered that a respondent had stated that her family would discourage her from drinking coffee by telling her that it is bad for her body. My family members also say that quite frequently. In fact, in these situations, the target audience for this project can be categorized as parents of high school or college students. I want to use this project to help them become less overly concerned about coffee and its effects.  
+In conclusion, the target audience for this project consists of coffee addicts, consumer who drink it regularly but are concerned about its health effects, people who want to drink coffee but worry about the risks, and parents of high school or college students who are concerned about caffeine's effects.  
+
+##  Final design decisions ✏️
+### Final Design Decisions
+This project is divided into three sections: **setting, contradiction and resolution**.  
+The first section is to establish the prerequisite background, which includes parts 1 and 2. In this section, I'd like to use data to demonstrate how coffee sales and consumption have increased significantly over the last ten years. Then, using survey data, we can see that, while coffee is becoming increasingly popular around the world, and there are more and more coffee consumers, only 25% of respondents believe that coffee is not harmful to our bodies, and this proportion is higher than that of women. 20% is even less.  
+
+The second section is the contradiction and parts 3, 4, and 5 are included here. In this section, it will be explained that caffeine can be found in many non-coffee beverages in everyday life, and that 1 oz of brewed coffee contains 12mg of caffeine. Caffeine should not be blamed. A research report compiles recent research on the relationship between coffee and diseases, and the findings show that coffee poses no risk to many diseases. In fact, it has no effect and, in some cases, is even beneficial to the body. At the end of this section, I provide data demonstrating that moderate coffee consumption can reduce the likelihood of certain diseases. This sparked the audience's thinking by creating a gap between the public's perception of coffee and the actual research findings.  
+
+The final section addresses the public's excessive coffee concerns and questions about moderate coffee consumption. It clearly shows how many cups of coffee and how many mg of caffeine are in moderate coffee consumption through the visual form, reducing the audience's caffeine concerns.  
+To match the theme color, the entire shorthand is brown.  
+
+### Changes made since Part Ⅱ
+#### Title and Introduction
+
+**Title Page:**  
 I have changed the title of the final presentation from "Coffee and Health" to "Coffee can be part of a health diet". I wish I could draw the audience in with a headline that is more direct and explicit.  
 
 <img src="title2.png" width="800px">
 
-### Part 1: Analyze coffee consumption trends 
+**Introduction Page**  
+After the title, I added a transition paragraph to lead out the whole story.  
+<img src="introduction.png" width="800px">
+
+#### Part 1: Analyze coffee consumption trends 
+_Part 1.1_  
+I haven't changed the visualization of part 1.1, but I have added explanatory text on the right side of the page and highlighted the ten-year growth rate to better illustrate the rise in global coffee consumption and production.  
+
+**_After change:_**  
+<img src="part1_1.png" width="800px">
+
 _Part 1.2_  
 Given that I believe chart 1.2 is somewhat similar to the earlier consumption data and that I want to present the results with more understandable data, I changed the line chart of figure 1.2 into the form of text. In addition, I added the percentage unit for the pie chart.  
 
@@ -21,16 +61,20 @@ Given that I believe chart 1.2 is somewhat similar to the earlier consumption da
 
 _Part 1.3_  
 
-In this part, I changed the title of the map chart to "Top 10 Countries with the Highest Total Coffee Consumption". The title was changed to differentiate the meaning of the two visualizations.  
+In this part, I changed the title of the map chart to "Top 10 Countries with the Highest Total Coffee Consumption". The title was changed to differentiate the meaning of the two visualizations. I present the two visualizations in order to better illustrate the differences in coffee consumption habits around the world.   
 
-**_After change:_**  
+**_The visualization after change:_**  
 <div class='tableauPlaceholder' id='viz1677102904707' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 (2) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ma&#47;map_update&#47;Dashboard12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='map_update&#47;Dashboard12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ma&#47;map_update&#47;Dashboard12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object>
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1677102904707');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='600px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='600px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+**_Shorthand page after change:_**  
 
-### Part 2: Consumers’ initial perceptions on coffee 
+<img src="part1_3.png" width="800px">
+
+
+#### Part 2: Consumers’ initial perceptions on coffee 
 Order of presentation:  
 I changed the order of the previous part 2 and part 3. I will start off by discussing a misconception the general public has about coffee before presenting the opposite viewpoint in an effort to peak the audience's interest.  
 
@@ -47,48 +91,52 @@ After the change, there are three visualizations in total.
 <div class="infogram-embed" data-id="a9a9af87-ad4d-423e-8564-ef007797d4fc" data-type="interactive" data-title="update: female consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a9a9af87-ad4d-423e-8564-ef007797d4fc" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: female consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 
-### Part 3: Caffeine content in beverages 
-For this visualization, I changed the title to "Caffeine Actually Exists in a variety of daily non-coffee beverages".  
+#### Part 3: Caffeine content in beverages 
+For this visualization, I changed the title to "Caffeine Actually Exists in a variety of daily non-coffee beverages". I added a transitional turning point between parts 2 and 3, which means the story will revert here and officially enter the "conflict" stage.   
 
-**_After change:_**  
+**_The visualization after change:_**  
 <div class='tableauPlaceholder' id='viz1677102944337' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;st&#47;stage2_update&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='stage2_update&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;st&#47;stage2_update&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object>
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1677102944337');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='427px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='427px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+**_Shorthand page after change:_**  
+<img src="part3.png" width="800px">
 
-### Part 4: A summary of the research on the relationship between coffee and health
+
+#### Part 4: A summary of the research on the relationship between coffee and health
 For the visualization, I combined the two categories of "benefit" and "null effect," as suggested by the user research respondent. This type of illustration makes it easier to understand that "according to the majority of research results, consumption of coffee will not harm the body."  
 
-**_After change:_**  
+**_The visualization after change:_**  
 <div class="infogram-embed" data-id="08879182-895b-4194-8d32-ec65701306d2" data-type="interactive" data-title="update: research data"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/08879182-895b-4194-8d32-ec65701306d2" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: research data</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+**_Shorthand page after change:_**  
+<img src="part4.png" width="800px">
 
-### Part 5: Health benefits of drinking coffee
+
+#### Part 5: Health benefits of drinking coffee
 According to the user research, the respondent is confused about the meaning of the percentage. Therefore, for this visualization, I changed the title to "Moderate coffee may decrease the disease risk (by)".  
 
-**_After change:_**  
+**_The visualization after change:_**  
 <div class="infogram-embed" data-id="725303b4-7a50-4182-98b6-de68d1b845b1" data-type="interactive" data-title="update: benefit"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/725303b4-7a50-4182-98b6-de68d1b845b1" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: benefit</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+**_Shorthand page after change:_**  
+<img src="part5.png" width="800px">
 
-### Part 6: Call to action - what is moderate consumption of coffee?
-I changed the transparency of the last coffee cup to make the fifth one more transparent. In this way, the data of the moderate consumption of the title can be better explained. In addition, I changed the title "on average 400mg caffeine daily" to "Up to 400mg caffeine daily".
 
-**_After change:_**  
+#### Part 6: Call to action - what is moderate consumption of coffee?
+I changed the transparency of the last coffee cup to make the fifth one more transparent. In this way, the data of the moderate consumption of the title can be better explained. In addition, I changed the title "on average 400mg caffeine daily" to "Up to 400mg caffeine daily". I included a warning about caffeine just below the visualization.  
+
+**_The visualization after change:_**  
 <div class="infogram-embed" data-id="c9f8198a-aeb6-46bd-a55e-c4ba6a4b6b9c" data-type="interactive" data-title="update: call to action"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c9f8198a-aeb6-46bd-a55e-c4ba6a4b6b9c" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: call to action</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+**_Shorthand page after change:_**  
+<img src="part6.png" width="800px">
 
-## Final Report
-### The Audience
-Because the final call to action actually instructs the audience on how much coffee is appropriate to consume (the moderate coffee consumption) and to not be overly concerned with caffeine, addicts of coffee are most likely to gain from this. In addition, many coffee drinkers worry excessively about the negative effects of coffee on their bodies, or some people want to try drinking coffee but stop due to excessive concern. All of them will be the audience of this project.  
-While I was reviewing user research, I discovered that a respondent had stated that her family would discourage her from drinking coffee by telling her that it is bad for her body. My family members also say that quite frequently. In fact, in these situations, the target audience for this project can be categorized as parents of high school or college students. I want to use this project to help them become less overly concerned about coffee and its effects.  
-In conclusion, the target audience for this project consists of coffee addicts, consumer who drink it regularly but are concerned about its health effects, people who want to drink coffee but worry about the risks, and parents of high school or college students who are concerned about caffeine's effects.  
+#### Resource for audiences
+At the end, I included some links and articles that might be useful for the audience to continue research on coffee and health.  
 
-### Final Design Decisions
-This project is divided into three sections: setting, contradiction and resolution.  
-The first step is to establish the prerequisite background, which includes parts 1 and 2. In this section, I'd like to use data to demonstrate how coffee sales and consumption have increased significantly over the last ten years. Then, using survey data, we can see that, while coffee is becoming increasingly popular around the world, and there are more and more coffee consumers, only 25% of respondents believe that coffee is not harmful to our bodies, and this proportion is higher than that of women. 20% is even less.  
-The second part is the contradiction and parts 3, 4, and 5 are included here. In this section, it will be explained that caffeine can be found in many non-coffee beverages in everyday life, and that 1 oz of brewed coffee contains 12mg of caffeine. Caffeine should not be blamed. A research report compiles recent research on the relationship between coffee and diseases, and the findings show that coffee poses no risk to many diseases. In fact, it has no effect and, in some cases, is even beneficial to the body. At the end of this section, I provide data demonstrating that moderate coffee consumption can reduce the likelihood of certain diseases. This sparked the audience's thinking by creating a gap between the public's perception of coffee and the actual research findings.  
-The final section addresses the public's excessive coffee concerns and questions about moderate coffee consumption. It clearly shows how many cups of coffee and how many mg of caffeine are in moderate coffee consumption through the visual form, reducing the audience's caffeine concerns.  
+<img src="resource.png" width="800px">
 
 
 ## Final Thoughts
