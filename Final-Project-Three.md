@@ -26,7 +26,7 @@ In conclusion, the target audience for this project consists of coffee addicts, 
 
 ##  Final design decisions ✏️
 ### Final Design Decisions
-This project is divided into three sections: **setting, contradiction and resolution**.  
+This project is divided into three sections: **setting, conflict and solution**.  
 The first section is to establish the prerequisite background, which includes parts 1 and 2. In this section, I'd like to use data to demonstrate how coffee sales and consumption have increased significantly over the last ten years. Then, using survey data, we can see that, while coffee is becoming increasingly popular around the world, and there are more and more coffee consumers, only 25% of respondents believe that coffee is not harmful to our bodies, and this proportion is higher than that of women. 20% is even less.  
 
 The second section is the contradiction and parts 3, 4, and 5 are included here. In this section, it will be explained that caffeine can be found in many non-coffee beverages in everyday life, and that 1 oz of brewed coffee contains 12mg of caffeine. Caffeine should not be blamed. A research report compiles recent research on the relationship between coffee and diseases, and the findings show that coffee poses no risk to many diseases. In fact, it has no effect and, in some cases, is even beneficial to the body. At the end of this section, I provide data demonstrating that moderate coffee consumption can reduce the likelihood of certain diseases. This sparked the audience's thinking by creating a gap between the public's perception of coffee and the actual research findings.  
@@ -97,7 +97,7 @@ Change for visualization:
 I previously used a large number of icons to indicate the proportion, but according to user research, too many icons make it difficult to draw an obvious conclusion. So, first, I removed the filter and divided the original visualization into three parts: total, female, and male. I reduced the number of icons in the "total" visualization to four and changed the color of one icon to green and the rest to gray to better represent the "25%" ratio. Similarly, I reduced the female and male visualizations to ten icons.  
 
 **_After change:_**  
-After the change, there are three visualizations in total.  
+After the change, there are three visualizations in total. I just insert these three visualizations on the Shorthand Page one by one.  
 
 <div class="infogram-embed" data-id="b140a9f4-e070-4f2a-95d9-313ed558f034" data-type="interactive" data-title="update: consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b140a9f4-e070-4f2a-95d9-313ed558f034" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
@@ -151,7 +151,7 @@ From this transition, we will enter the "solution" stage.
 
 
 #### Part 5: Health benefits of drinking coffee
-According to the user research, the respondent is confused about the meaning of the percentage. Therefore, for this visualization, I changed the title to "Moderate coffee may decrease the disease risk (by)".  
+According to the user research, the respondent is confused about the meaning of the percentage. Therefore, for this visualization, I changed the title to "Moderate coffee may decrease the disease risk (by)". The visualization is inserted into the Shorthand directly.  
 
 **_The visualization after change:_**  
 <div class="infogram-embed" data-id="725303b4-7a50-4182-98b6-de68d1b845b1" data-type="interactive" data-title="update: benefit"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/725303b4-7a50-4182-98b6-de68d1b845b1" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: benefit</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
