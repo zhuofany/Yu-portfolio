@@ -158,11 +158,6 @@ According to the user research, the respondent is confused about the meaning of 
 
 <br />
 
-**_Shorthand page after change:_**  
-
-<img src="part5.png" width="800px">
-<br />
-
 
 #### Transition 3
 Before calling to action, I would like to raise the question to the audiences.  
