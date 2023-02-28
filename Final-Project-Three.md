@@ -30,6 +30,7 @@ In conclusion, the target audience for this project consists of coffee addicts, 
 [Shorthand Page](https://carnegiemellon.shorthandstories.com/coffee-can-be-part-of-a-healthy-diet/index.html)  
 
 ### Final Design Decisions
+The topic is: Take Caffeine Concerns Less Seriously, coffee can be part of a healthy diet.  
 This project is divided into three sections: **setting, conflict and solution**.  
 The first section is to establish the prerequisite background, which includes parts 1 and 2. In this section, I'd like to use data to demonstrate how coffee sales and consumption have increased significantly over the last ten years. Then, using survey data, we can see that, while coffee is becoming increasingly popular around the world, and there are more and more coffee consumers, only 25% of respondents believe that coffee is not harmful to our bodies, and this proportion is higher than that of women. 20% is even less.  
 
