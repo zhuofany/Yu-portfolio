@@ -47,11 +47,13 @@ I have changed the title of the final presentation from "Coffee and Health" to "
 
 <img src="title2.png" width="800px">
 <br />
+<br />
 
 **Introduction Page**  
 After the title, I added a transition paragraph to lead out the whole story.  
 
 <img src="introduction.png" width="800px">
+<br />
 <br />
 
 #### Part 1: Analyze coffee consumption trends 
@@ -85,14 +87,14 @@ In this part, I changed the title of the map chart to "Top 10 Countries with the
 
 <img src="part1_3.png" width="800px">
 <br />
-
+<br />
 
 #### Transition 1
 From this transition, we will enter the first small turning point, but the story is still in the "setup" stage.  
 
 <img src="page1.png" width="800px">
 <br />
-
+<br />
 
 #### Part 2: Consumers’ initial perceptions on coffee 
 Order of presentation:  
@@ -120,7 +122,7 @@ After the change, there are three visualizations in total. I just insert these t
 
 <img src="part2.png" width="800px">
 <br />
-
+<br />
 
 #### Part 3: Caffeine content in beverages 
 For this visualization, I changed the title to "Caffeine Actually Exists in a variety of daily non-coffee beverages". I added another category to compare the caffeine content. I added a transitional turning point between parts 2 and 3, which means the story will revert here and officially enter the "conflict" stage.   
@@ -137,7 +139,7 @@ For this visualization, I changed the title to "Caffeine Actually Exists in a va
 
 <img src="part3.png" width="800px">
 <br />
-
+<br />
 
 #### Part 4: A summary of the research on the relationship between coffee and health
 For the visualization, I combined the two categories of "benefit" and "null effect," as suggested by the user research respondent. This type of illustration makes it easier to understand that "according to the majority of research results, consumption of coffee will not harm the body."  
@@ -151,14 +153,14 @@ For the visualization, I combined the two categories of "benefit" and "null effe
 
 <img src="part4.png" width="800px">
 <br />
-
+<br />
 
 #### Transition 2
 
 From this transition, we will enter the "solution" stage.  
 <img src="page2.png" width="800px">
 <br />
-
+<br />
 
 #### Part 5: Health benefits of drinking coffee
 According to the user research, the respondent is confused about the meaning of the percentage. Therefore, for this visualization, I changed the title to "Moderate coffee may decrease the disease risk (by)". The visualization is inserted into the Shorthand directly.  
@@ -167,14 +169,14 @@ According to the user research, the respondent is confused about the meaning of 
 <div class="infogram-embed" data-id="725303b4-7a50-4182-98b6-de68d1b845b1" data-type="interactive" data-title="update: benefit"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/725303b4-7a50-4182-98b6-de68d1b845b1" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: benefit</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 <br />
-
+<br />
 
 #### Transition 3
 Before calling to action, I would like to raise the question to the audiences.  
 
 <img src="page3.png" width="800px">
 <br />
-
+<br />
 
 #### Part 6: Call to action - what is moderate consumption of coffee?
 I changed the transparency of the last coffee cup to make the fifth one more transparent. In this way, the data of the moderate consumption of the title can be better explained. In addition, I changed the title "on average 400mg caffeine daily" to "Up to 400mg caffeine daily". I included a warning about caffeine just below the visualization.  
@@ -188,12 +190,13 @@ I changed the transparency of the last coffee cup to make the fifth one more tra
 
 <img src="part6.png" width="800px">
 <br />
-
+<br />
 
 #### Resource for audiences
 At the end, I included some links and articles that might be useful for the audience to continue research on coffee and health.  
 
 <img src="resource.png" width="800px">
+<br />
 <br />
 
 ## Final Thoughts
