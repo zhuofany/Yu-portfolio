@@ -3,6 +3,7 @@
 [Final Part Ⅰ](Final-Project-One.md)  
 [Final Part Ⅱ](Final-Project-Two.md)  
 [Final Part Ⅲ](Final-Project-Three.md)  
+[Shorthand Page](https://carnegiemellon.shorthandstories.com/coffee-can-be-part-of-a-healthy-diet/index.html)  
 [Back to Portfolio](README.md)  
 
 ## Outline 📑
