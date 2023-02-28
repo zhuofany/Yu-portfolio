@@ -108,12 +108,17 @@ After the change, there are three visualizations in total. I just insert these t
 
 <br />
 
-<div class="infogram-embed" data-id="b140a9f4-e070-4f2a-95d9-313ed558f034" data-type="interactive" data-title="update: consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b140a9f4-e070-4f2a-95d9-313ed558f034" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<div class="infogram-embed" data-id="2cdd2ef3-8ee2-41ad-b6a8-d14afbf569e7" data-type="interactive" data-title="men consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/2cdd2ef3-8ee2-41ad-b6a8-d14afbf569e7" style="color:#989898!important;text-decoration:none!important;" target="_blank">men consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 <br />
 
 <div class="infogram-embed" data-id="a9a9af87-ad4d-423e-8564-ef007797d4fc" data-type="interactive" data-title="update: female consumer perception"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a9a9af87-ad4d-423e-8564-ef007797d4fc" style="color:#989898!important;text-decoration:none!important;" target="_blank">update: female consumer perception</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+<br />
+
+**_Shorthand page after change:_**  
+
+<img src="part2.png" width="800px">
 <br />
 
 
