@@ -48,4 +48,6 @@ Here are works of Telling Stories With Data 🌻
 [Final Project Part Ⅰ](Final-Project-One.md)  
 [Final Project Part Ⅱ](Final-Project-Two.md)  
 [Final Project Part Ⅲ](Final-Project-Three.md)  
+[Shorthand Presentation](https://carnegiemellon.shorthandstories.com/coffee-can-be-part-of-a-healthy-diet/index.html)  
+
 
